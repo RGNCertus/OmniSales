@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OmniSales — Plataforma Big Data Multicanal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=Syne:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <canvas id="bg-canvas"></canvas>
+
+  <nav class="navbar">
+    <div class="nav-brand">
+      <span class="brand-dot"></span>
+      <span class="brand-name">OmniSales</span>
+      <span class="brand-tag">BIG DATA</span>
+    </div>
+    <ul class="nav-links">
+      <li><a href="#arquitectura">Arquitectura</a></li>
+      <li><a href="#pipeline">Pipeline</a></li>
+      <li><a href="#kpis">KPIs</a></li>
+      <li><a href="#tecnologias">Stack</a></li>
+      <li><a href="#equipo" class="nav-cta">Ver Proyecto</a></li>
+    </ul>
+  </nav>
+
+  <header class="hero" id="inicio">
+
+    <div class="hero-side-panel">
+      <div class="side-tag">Evidencia 4</div>
+      <div class="side-divider"></div>
+      <div class="side-author">
+        <span class="side-label">Hecho por</span>
+        <span class="side-name">Rodrigo Grimaldo Napan</span>
+      </div>
+    </div>
+
+    <div class="hero-eyebrow">
+      <span class="ticker-dot"></span>
+      <span>STREAMING EN TIEMPO REAL · ANÁLISIS MULTICANAL · SPARK + KAFKA</span>
+    </div>
+
+    <h1 class="hero-title">
+      <span class="title-line animate-line" style="--d:0ms">Consolida.</span>
+      <span class="title-line animate-line" style="--d:120ms">Analiza.</span>
+      <span class="title-line highlight animate-line" style="--d:240ms">Decide.</span>
+    </h1>
+
+    <p class="hero-sub animate-fade" style="--d:500ms">
+      Plataforma Big Data para el análisis unificado de ventas multicanal<br />
+      y retroalimentación de clientes · Tienda Norte · Tienda Sur · Online
+    </p>
+
+    <div class="hero-stats animate-fade" style="--d:700ms">
+      <div class="stat-pill">
+        <span class="stat-num" data-target="11000">0</span>
+        <span class="stat-label">registros históricos</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-pill">
+        <span class="stat-num" data-target="1500">0</span>
+        <span class="stat-label">eventos streaming</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-pill">
+        <span class="stat-num" data-target="5">0</span>
+        <span class="stat-label">KPIs generados</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-pill">
+        <span class="stat-num" data-target="3">0</span>
+        <span class="stat-label">formatos de datos</span>
+      </div>
+    </div>
+
+    <div class="hero-scroll animate-fade" style="--d:900ms">
+      <span>scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </header>
+
+  <section class="section" id="arquitectura">
+    <div class="section-label">01 · ARQUITECTURA</div>
+    <h2 class="section-title">Diseño del sistema</h2>
+    <p class="section-desc">
+      Arquitectura Lambda con capa batch para procesamiento histórico
+      y capa streaming para eventos en tiempo real, orquestada con Docker.
+    </p>
+
+    <div class="arch-diagram">
+
+      <div class="arch-col">
+        <div class="arch-col-title">Fuentes de datos</div>
+        <div class="arch-card source" style="--accent:#E07B3A">
+          <div class="arch-icon">CSV</div>
+          <div class="arch-card-name">ventas_norte.csv</div>
+          <div class="arch-card-sub">6,000 transacciones</div>
+        </div>
+        <div class="arch-card source" style="--accent:#E07B3A">
+          <div class="arch-icon">CSV</div>
+          <div class="arch-card-name">ventas_sur.csv</div>
+          <div class="arch-card-sub">5,000 transacciones</div>
+        </div>
+        <div class="arch-card source" style="--accent:#3AAE6E">
+          <div class="arch-icon">JSON</div>
+          <div class="arch-card-name">clientes.json</div>
+          <div class="arch-card-sub">3,000 clientes</div>
+        </div>
+        <div class="arch-card source" style="--accent:#3AAE6E">
+          <div class="arch-icon">JSON</div>
+          <div class="arch-card-name">productos.json</div>
+          <div class="arch-card-sub">200 productos</div>
+        </div>
+        <div class="arch-card source" style="--accent:#9B59B6">
+          <div class="arch-icon">TXT</div>
+          <div class="arch-card-name">feedback_tienda.txt</div>
+          <div class="arch-card-sub">800 comentarios</div>
+        </div>
+      </div>
+
+      <div class="arch-arrows">
+        <div class="arrow-line"></div>
+        <div class="arrow-label">ingestión</div>
+      </div>
+
+      <div class="arch-col">
+        <div class="arch-col-title">Procesamiento</div>
+        <div class="arch-card engine" style="--accent:#2B7BB9">
+          <div class="arch-icon-lg">⚡</div>
+          <div class="arch-card-name">Apache Spark</div>
+          <div class="arch-card-sub">ETL Batch · RDD · DataFrame · SQL</div>
+        </div>
+        <div class="arch-card engine" style="--accent:#FF6B35">
+          <div class="arch-icon-lg">🌊</div>
+          <div class="arch-card-name">Kafka + Spark Streaming</div>
+          <div class="arch-card-sub">Micro-batches · Alertas en tiempo real</div>
+        </div>
+        <div class="arch-card engine" style="--accent:#F1C40F">
+          <div class="arch-icon-lg">🐳</div>
+          <div class="arch-card-name">Docker Compose</div>
+          <div class="arch-card-sub">omnisales-spark · omnisales-broker</div>
+        </div>
+      </div>
+
+      <div class="arch-arrows">
+        <div class="arrow-line"></div>
+        <div class="arrow-label">output</div>
+      </div>
+
+      <div class="arch-col">
+        <div class="arch-col-title">Salida analítica</div>
+        <div class="arch-card output-card" style="--accent:#3AAE6E">
+          <div class="arch-icon">PKT</div>
+          <div class="arch-card-name">ventas_clean.parquet</div>
+          <div class="arch-card-sub">Dataset analítico unificado</div>
+        </div>
+        <div class="arch-card output-card" style="--accent:#2B7BB9">
+          <div class="arch-icon">KPI</div>
+          <div class="arch-card-name">5 reportes CSV</div>
+          <div class="arch-card-sub">Canal · Categoría · Segmento · Productos · Feedback</div>
+        </div>
+        <div class="arch-card output-card" style="--accent:#E07B3A">
+          <div class="arch-icon">PNG</div>
+          <div class="arch-card-name">3 visualizaciones</div>
+          <div class="arch-card-sub">Matplotlib · Alta resolución</div>
+        </div>
+        <div class="arch-card output-card alert-card" style="--accent:#E74C3C">
+          <div class="arch-icon">⚠</div>
+          <div class="arch-card-name">Alertas streaming</div>
+          <div class="arch-card-sub">Stock bajo · Devolución alto valor</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-dark" id="pipeline">
+    <div class="section-label">02 · PIPELINE</div>
+    <h2 class="section-title">Flujo de ejecución</h2>
+
+    <div class="pipeline">
+      <div class="pipeline-step" style="--i:0">
+        <div class="step-num">01</div>
+        <div class="step-file">01_generate_batch_data.py</div>
+        <div class="step-title">Generación de datos</div>
+        <div class="step-desc">
+          Faker genera 11,000 transacciones de venta, 3,000 clientes,
+          200 productos y 800 comentarios en CSV, JSON y TXT.
+        </div>
+        <div class="step-badge">data/raw/</div>
+      </div>
+
+      <div class="pipeline-connector">→</div>
+
+      <div class="pipeline-step" style="--i:1">
+        <div class="step-num">02</div>
+        <div class="step-file">03_batch_etl_spark.py</div>
+        <div class="step-title">ETL Batch con Spark</div>
+        <div class="step-desc">
+          Lee los 5 archivos, ejecuta joins y transformaciones,
+          genera 5 KPIs con Spark SQL y RDD, escribe Parquet.
+        </div>
+        <div class="step-badge">output/kpis/</div>
+      </div>
+
+      <div class="pipeline-connector">→</div>
+
+      <div class="pipeline-step" style="--i:2">
+        <div class="step-num">03</div>
+        <div class="step-file">05_visualizations.py</div>
+        <div class="step-title">Visualizaciones</div>
+        <div class="step-desc">
+          Matplotlib genera 3 gráficos con interpretaciones
+          de negocio: canal, categoría y sentimiento de feedback.
+        </div>
+        <div class="step-badge">output/charts/</div>
+      </div>
+
+      <div class="pipeline-connector">→</div>
+
+      <div class="pipeline-step" style="--i:3">
+        <div class="step-num">04</div>
+        <div class="step-file">04_streaming + 02_events</div>
+        <div class="step-title">Streaming en tiempo real</div>
+        <div class="step-desc">
+          Productor envía 1,500 eventos a Kafka. Consumidor
+          procesa micro-batches, aplica 2 alertas y genera 2 resúmenes.
+        </div>
+        <div class="step-badge">output/streaming/</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="kpis">
+    <div class="section-label">03 · KPIs Y ALERTAS</div>
+    <h2 class="section-title">Indicadores clave</h2>
+    <p class="section-desc">
+      Cinco reportes batch más dos resúmenes streaming y dos reglas de alerta
+      operativa generados automáticamente por el pipeline.
+    </p>
+
+    <div class="kpi-grid">
+      <div class="kpi-card" style="--accent:#E07B3A; --i:0">
+        <div class="kpi-icon">📊</div>
+        <div class="kpi-name">Ventas por canal</div>
+        <div class="kpi-file">kpi_ventas_por_canal.csv</div>
+        <div class="kpi-desc">Ingreso bruto, ticket promedio, margen y tasa de devolución por canal de venta.</div>
+      </div>
+
+      <div class="kpi-card" style="--accent:#2B7BB9; --i:1">
+        <div class="kpi-icon">🏷️</div>
+        <div class="kpi-name">Ventas por categoría</div>
+        <div class="kpi-file">kpi_ventas_por_categoria.csv</div>
+        <div class="kpi-desc">Ingreso bruto vs margen total por cada categoría de producto del catálogo.</div>
+      </div>
+
+      <div class="kpi-card" style="--accent:#3AAE6E; --i:2">
+        <div class="kpi-icon">👥</div>
+        <div class="kpi-name">Clientes por segmento</div>
+        <div class="kpi-file">kpi_clientes_por_segmento.csv</div>
+        <div class="kpi-desc">Comportamiento de compra, ticket promedio y descuentos según segmento de cliente.</div>
+      </div>
+
+      <div class="kpi-card" style="--accent:#9B59B6; --i:3">
+        <div class="kpi-icon">🏆</div>
+        <div class="kpi-name">Top 20 productos</div>
+        <div class="kpi-file">kpi_productos_top.csv</div>
+        <div class="kpi-desc">Ranking de productos por ingreso total, unidades vendidas y margen generado.</div>
+      </div>
+
+      <div class="kpi-card" style="--accent:#F1C40F; --i:4">
+        <div class="kpi-icon">💬</div>
+        <div class="kpi-name">Feedback por canal</div>
+        <div class="kpi-file">kpi_feedback_por_canal.csv</div>
+        <div class="kpi-desc">Calificación promedio y distribución positivo/neutro/negativo por canal de venta.</div>
+      </div>
+
+      <div class="kpi-card alert-kpi" style="--accent:#E74C3C; --i:5">
+        <div class="kpi-icon">⚡</div>
+        <div class="kpi-name">Alertas streaming</div>
+        <div class="kpi-file">output/streaming/alerts/</div>
+        <div class="kpi-desc">
+          <span class="alert-badge">STOCK BAJO</span> stock_actual ≤ 15 u.<br/>
+          <span class="alert-badge">DEVOLUCIÓN</span> monto_venta &gt; S/ 500
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-dark" id="eventos">
+    <div class="section-label">04 · EVENTOS STREAMING</div>
+    <h2 class="section-title">Topic: omnisales-events</h2>
+    <p class="section-desc">
+      El productor Kafka emite 6 tipos de evento en tiempo real.
+      El consumidor Spark Structured Streaming los procesa en micro-batches de 10 segundos.
+    </p>
+
+    <div class="events-grid">
+      <div class="event-chip" style="--c:#3AAE6E">
+        <span class="event-dot"></span>venta_iniciada
+        <span class="event-pct">25%</span>
+      </div>
+      <div class="event-chip" style="--c:#2B7BB9">
+        <span class="event-dot"></span>venta_completada
+        <span class="event-pct">30%</span>
+      </div>
+      <div class="event-chip" style="--c:#E74C3C">
+        <span class="event-dot"></span>venta_devuelta
+        <span class="event-pct">10%</span>
+      </div>
+      <div class="event-chip" style="--c:#F1C40F">
+        <span class="event-dot"></span>stock_bajo
+        <span class="event-pct">12%</span>
+      </div>
+      <div class="event-chip" style="--c:#9B59B6">
+        <span class="event-dot"></span>feedback_recibido
+        <span class="event-pct">10%</span>
+      </div>
+      <div class="event-chip" style="--c:#E07B3A">
+        <span class="event-dot"></span>descuento_aplicado
+        <span class="event-pct">13%</span>
+      </div>
+    </div>
+
+    <div class="terminal">
+      <div class="terminal-bar">
+        <span class="t-btn red"></span>
+        <span class="t-btn yellow"></span>
+        <span class="t-btn green"></span>
+        <span class="t-title">omnisales-broker · topic: omnisales-events</span>
+      </div>
+      <div class="terminal-body" id="terminal-output">
+        <div class="t-line comment"># Ejecutar productor de eventos</div>
+        <div class="t-line cmd">$ docker compose exec spark python src/02_generate_streaming_events.py --events 1500 --delay 0.05</div>
+        <div class="t-line out">Productor Kafka - OmniSales</div>
+        <div class="t-line out">Topic destino        : omnisales-events</div>
+        <div class="t-line out">Bootstrap servers    : broker:19092</div>
+        <div class="t-line out">Eventos a enviar     : 1500</div>
+        <div class="t-line separator">────────────────────────────────────────────────────</div>
+        <div class="t-line streaming" id="stream-line">▌</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="tecnologias">
+    <div class="section-label">05 · STACK TECNOLÓGICO</div>
+    <h2 class="section-title">Herramientas del proyecto</h2>
+
+    <div class="tech-grid">
+      <div class="tech-item" style="--i:0">
+        <div class="tech-logo spark">⚡</div>
+        <div class="tech-name">Apache Spark 4.1.1</div>
+        <div class="tech-role">ETL · RDD · DataFrame · SQL</div>
+      </div>
+      <div class="tech-item" style="--i:1">
+        <div class="tech-logo kafka">🌊</div>
+        <div class="tech-name">Apache Kafka 4.2.0</div>
+        <div class="tech-role">Broker de mensajes · Streaming</div>
+      </div>
+      <div class="tech-item" style="--i:2">
+        <div class="tech-logo python">🐍</div>
+        <div class="tech-name">Python 3.13</div>
+        <div class="tech-role">PySpark · Pandas · Faker · Matplotlib</div>
+      </div>
+      <div class="tech-item" style="--i:3">
+        <div class="tech-logo docker">🐳</div>
+        <div class="tech-name">Docker Compose</div>
+        <div class="tech-role">Contenedores · Orquestación</div>
+      </div>
+      <div class="tech-item" style="--i:4">
+        <div class="tech-logo parquet">📦</div>
+        <div class="tech-name">Parquet</div>
+        <div class="tech-role">Almacenamiento analítico columnar</div>
+      </div>
+      <div class="tech-item" style="--i:5">
+        <div class="tech-logo matplotlib">📈</div>
+        <div class="tech-name">Matplotlib</div>
+        <div class="tech-role">Visualizaciones · Gráficos KPI</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section-dark" id="equipo">
+    <div class="section-label">06 · EJECUCIÓN</div>
+    <h2 class="section-title">Comandos del proyecto</h2>
+
+    <div class="commands-grid">
+      <div class="cmd-block">
+        <div class="cmd-step-label">Paso 1 — Levantar Docker</div>
+        <div class="cmd-code">docker compose up -d</div>
+      </div>
+      <div class="cmd-block">
+        <div class="cmd-step-label">Paso 2 — Generar datos históricos</div>
+        <div class="cmd-code">docker compose exec spark python src/01_generate_batch_data.py</div>
+      </div>
+      <div class="cmd-block">
+        <div class="cmd-step-label">Paso 3 — ETL Batch + KPIs</div>
+        <div class="cmd-code">docker compose exec spark python src/03_batch_etl_spark.py</div>
+      </div>
+      <div class="cmd-block">
+        <div class="cmd-step-label">Paso 4 — Generar gráficos</div>
+        <div class="cmd-code">docker compose exec spark python src/05_visualizations.py</div>
+      </div>
+      <div class="cmd-block">
+        <div class="cmd-step-label">Paso 5a — Consumidor streaming</div>
+        <div class="cmd-code">docker compose exec spark python src/04_streaming_spark_kafka.py --duration 120</div>
+      </div>
+      <div class="cmd-block">
+        <div class="cmd-step-label">Paso 5b — Productor de eventos</div>
+        <div class="cmd-code">docker compose exec spark python src/02_generate_streaming_events.py --events 1500 --delay 0.05</div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="footer-brand">OmniSales</div>
+    <div class="footer-sub">Plataforma Big Data Multicanal · Apache Spark + Kafka · Python 3.13</div>
+    <div class="footer-files">
+      <span>ventas_norte.csv</span>
+      <span>·</span>
+      <span>ventas_sur.csv</span>
+      <span>·</span>
+      <span>clientes.json</span>
+      <span>·</span>
+      <span>productos.json</span>
+      <span>·</span>
+      <span>feedback_tienda.txt</span>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
