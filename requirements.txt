@@ -1,0 +1,22 @@
+# PySpark es la API de Python para Apache Spark.
+# La versión 4.1.1 se alinea con la documentación actual de Spark.
+pyspark==4.1.1
+
+# Pandas se usará para validaciones pequeñas y para exportar/leer resultados.
+pandas>=2.0.0
+
+# NumPy ayuda en generación de datos y cálculos numéricos.
+numpy>=1.26.0
+
+# Faker permite generar datos ficticios realistas: nombres, teléfonos, emails, etc.
+faker>=37.0.0
+
+# Matplotlib permitirá generar gráficos PNG para el informe.
+matplotlib>=3.9.0
+
+# PyArrow permite trabajar con formato Parquet.
+# Spark 4.1 eleva el mínimo de PyArrow, por eso usamos 15+.
+pyarrow>=15.0.0
+
+# Cliente Python para producir eventos hacia Kafka.
+confluent-kafka>=2.8.0
