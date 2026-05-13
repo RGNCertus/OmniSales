@@ -1,0 +1,3 @@
+event_id,venta_id,event_type,canal,categoria,producto_id,monto_venta,stock_actual,alerta,event_timestamp,batch_id
+EVT-0000407,VN-0005871,venta_devuelta,tienda_norte,jugueteria,PRD-0065,678.4,420,ALERTA_DEVOLUCION_ALTO_VALOR,2026-05-13 04:25:35,1
+EVT-0000413,VS-0000655,stock_bajo,tienda_sur,hogar,PRD-0035,347.72,2,ALERTA_STOCK_BAJO,2026-05-13 04:25:35,1

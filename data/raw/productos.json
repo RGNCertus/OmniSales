@@ -1,0 +1,1602 @@
+[
+  {
+    "producto_id": "PRD-0001",
+    "nombre": "Electronica Casa Mil",
+    "categoria": "electronica",
+    "precio_base": 380.31,
+    "costo": 197.76,
+    "stock_inicial": 282
+  },
+  {
+    "producto_id": "PRD-0002",
+    "nombre": "Alimentos Hijos Hicieron",
+    "categoria": "alimentos",
+    "precio_base": 35.98,
+    "costo": 14.75,
+    "stock_inicial": 472
+  },
+  {
+    "producto_id": "PRD-0003",
+    "nombre": "Ropa Crisis Medidas",
+    "categoria": "ropa",
+    "precio_base": 176.5,
+    "costo": 88.25,
+    "stock_inicial": 304
+  },
+  {
+    "producto_id": "PRD-0004",
+    "nombre": "Hogar Razones Larga",
+    "categoria": "hogar",
+    "precio_base": 53.89,
+    "costo": 27.48,
+    "stock_inicial": 451
+  },
+  {
+    "producto_id": "PRD-0005",
+    "nombre": "Deportes Sino Violencia",
+    "categoria": "deportes",
+    "precio_base": 212.54,
+    "costo": 97.77,
+    "stock_inicial": 404
+  },
+  {
+    "producto_id": "PRD-0006",
+    "nombre": "Deportes Desarrollo Asimismo",
+    "categoria": "deportes",
+    "precio_base": 395.52,
+    "costo": 213.58,
+    "stock_inicial": 21
+  },
+  {
+    "producto_id": "PRD-0007",
+    "nombre": "Alimentos Alta Oficial",
+    "categoria": "alimentos",
+    "precio_base": 19.86,
+    "costo": 12.31,
+    "stock_inicial": 438
+  },
+  {
+    "producto_id": "PRD-0008",
+    "nombre": "Electronica Habría Salud",
+    "categoria": "electronica",
+    "precio_base": 1107.3,
+    "costo": 719.75,
+    "stock_inicial": 476
+  },
+  {
+    "producto_id": "PRD-0009",
+    "nombre": "Alimentos Precio Respuesta",
+    "categoria": "alimentos",
+    "precio_base": 46.87,
+    "costo": 22.5,
+    "stock_inicial": 127
+  },
+  {
+    "producto_id": "PRD-0010",
+    "nombre": "Ropa Importancia Oposición",
+    "categoria": "ropa",
+    "precio_base": 147.48,
+    "costo": 82.59,
+    "stock_inicial": 495
+  },
+  {
+    "producto_id": "PRD-0011",
+    "nombre": "Ropa Deja Europea",
+    "categoria": "ropa",
+    "precio_base": 75.37,
+    "costo": 42.21,
+    "stock_inicial": 401
+  },
+  {
+    "producto_id": "PRD-0012",
+    "nombre": "Hogar Plazo Jefe",
+    "categoria": "hogar",
+    "precio_base": 154.12,
+    "costo": 97.1,
+    "stock_inicial": 194
+  },
+  {
+    "producto_id": "PRD-0013",
+    "nombre": "Electronica Cierta Volver",
+    "categoria": "electronica",
+    "precio_base": 460.77,
+    "costo": 239.6,
+    "stock_inicial": 167
+  },
+  {
+    "producto_id": "PRD-0014",
+    "nombre": "Hogar Elecciones Julio",
+    "categoria": "hogar",
+    "precio_base": 315.58,
+    "costo": 135.7,
+    "stock_inicial": 380
+  },
+  {
+    "producto_id": "PRD-0015",
+    "nombre": "Deportes Padre Que",
+    "categoria": "deportes",
+    "precio_base": 57.34,
+    "costo": 32.68,
+    "stock_inicial": 454
+  },
+  {
+    "producto_id": "PRD-0016",
+    "nombre": "Deportes Pueda Eso",
+    "categoria": "deportes",
+    "precio_base": 200.22,
+    "costo": 112.12,
+    "stock_inicial": 236
+  },
+  {
+    "producto_id": "PRD-0017",
+    "nombre": "Electronica Estos Tierra",
+    "categoria": "electronica",
+    "precio_base": 739.99,
+    "costo": 318.2,
+    "stock_inicial": 303
+  },
+  {
+    "producto_id": "PRD-0018",
+    "nombre": "Hogar Democracia Mundo",
+    "categoria": "hogar",
+    "precio_base": 143.21,
+    "costo": 88.79,
+    "stock_inicial": 279
+  },
+  {
+    "producto_id": "PRD-0019",
+    "nombre": "Deportes Visto Un",
+    "categoria": "deportes",
+    "precio_base": 290.02,
+    "costo": 124.71,
+    "stock_inicial": 468
+  },
+  {
+    "producto_id": "PRD-0020",
+    "nombre": "Hogar G Humana",
+    "categoria": "hogar",
+    "precio_base": 325.09,
+    "costo": 136.54,
+    "stock_inicial": 152
+  },
+  {
+    "producto_id": "PRD-0021",
+    "nombre": "Belleza Precisamente Jefe",
+    "categoria": "belleza",
+    "precio_base": 18.21,
+    "costo": 9.29,
+    "stock_inicial": 265
+  },
+  {
+    "producto_id": "PRD-0022",
+    "nombre": "Hogar Diario Varios",
+    "categoria": "hogar",
+    "precio_base": 64.46,
+    "costo": 29.01,
+    "stock_inicial": 314
+  },
+  {
+    "producto_id": "PRD-0023",
+    "nombre": "Ropa Acuerdo Seis",
+    "categoria": "ropa",
+    "precio_base": 64.79,
+    "costo": 40.17,
+    "stock_inicial": 45
+  },
+  {
+    "producto_id": "PRD-0024",
+    "nombre": "Jugueteria Problemas Persona",
+    "categoria": "jugueteria",
+    "precio_base": 135.72,
+    "costo": 70.57,
+    "stock_inicial": 363
+  },
+  {
+    "producto_id": "PRD-0025",
+    "nombre": "Electronica Propios Condiciones",
+    "categoria": "electronica",
+    "precio_base": 397.73,
+    "costo": 194.89,
+    "stock_inicial": 260
+  },
+  {
+    "producto_id": "PRD-0026",
+    "nombre": "Electronica Tales Hubiera",
+    "categoria": "electronica",
+    "precio_base": 1165.21,
+    "costo": 501.04,
+    "stock_inicial": 455
+  },
+  {
+    "producto_id": "PRD-0027",
+    "nombre": "Belleza Doctor Próximo",
+    "categoria": "belleza",
+    "precio_base": 30.66,
+    "costo": 15.02,
+    "stock_inicial": 253
+  },
+  {
+    "producto_id": "PRD-0028",
+    "nombre": "Alimentos Tomar Te",
+    "categoria": "alimentos",
+    "precio_base": 8.52,
+    "costo": 4.0,
+    "stock_inicial": 299
+  },
+  {
+    "producto_id": "PRD-0029",
+    "nombre": "Ropa Construcción Empresa",
+    "categoria": "ropa",
+    "precio_base": 100.57,
+    "costo": 55.31,
+    "stock_inicial": 177
+  },
+  {
+    "producto_id": "PRD-0030",
+    "nombre": "Hogar Ella Civil",
+    "categoria": "hogar",
+    "precio_base": 246.84,
+    "costo": 120.95,
+    "stock_inicial": 377
+  },
+  {
+    "producto_id": "PRD-0031",
+    "nombre": "Hogar Causa Cierto",
+    "categoria": "hogar",
+    "precio_base": 310.8,
+    "costo": 133.64,
+    "stock_inicial": 241
+  },
+  {
+    "producto_id": "PRD-0032",
+    "nombre": "Ropa Tierra Joven",
+    "categoria": "ropa",
+    "precio_base": 132.44,
+    "costo": 58.27,
+    "stock_inicial": 24
+  },
+  {
+    "producto_id": "PRD-0033",
+    "nombre": "Electronica Nuevo Pp",
+    "categoria": "electronica",
+    "precio_base": 696.3,
+    "costo": 341.19,
+    "stock_inicial": 325
+  },
+  {
+    "producto_id": "PRD-0034",
+    "nombre": "Jugueteria Sur Valores",
+    "categoria": "jugueteria",
+    "precio_base": 104.06,
+    "costo": 46.83,
+    "stock_inicial": 494
+  },
+  {
+    "producto_id": "PRD-0035",
+    "nombre": "Hogar Corazón Superior",
+    "categoria": "hogar",
+    "precio_base": 108.66,
+    "costo": 45.64,
+    "stock_inicial": 153
+  },
+  {
+    "producto_id": "PRD-0036",
+    "nombre": "Alimentos Trata Sus",
+    "categoria": "alimentos",
+    "precio_base": 43.1,
+    "costo": 22.84,
+    "stock_inicial": 412
+  },
+  {
+    "producto_id": "PRD-0037",
+    "nombre": "Belleza Zonas Fernando",
+    "categoria": "belleza",
+    "precio_base": 75.32,
+    "costo": 33.89,
+    "stock_inicial": 305
+  },
+  {
+    "producto_id": "PRD-0038",
+    "nombre": "Alimentos Calle Policía",
+    "categoria": "alimentos",
+    "precio_base": 41.76,
+    "costo": 26.73,
+    "stock_inicial": 168
+  },
+  {
+    "producto_id": "PRD-0039",
+    "nombre": "Ropa Pronto Haya",
+    "categoria": "ropa",
+    "precio_base": 61.08,
+    "costo": 25.65,
+    "stock_inicial": 70
+  },
+  {
+    "producto_id": "PRD-0040",
+    "nombre": "Hogar Tres Fondo",
+    "categoria": "hogar",
+    "precio_base": 171.54,
+    "costo": 80.62,
+    "stock_inicial": 283
+  },
+  {
+    "producto_id": "PRD-0041",
+    "nombre": "Ropa Humana Cantidad",
+    "categoria": "ropa",
+    "precio_base": 170.99,
+    "costo": 71.82,
+    "stock_inicial": 113
+  },
+  {
+    "producto_id": "PRD-0042",
+    "nombre": "Jugueteria Jóvenes Diez",
+    "categoria": "jugueteria",
+    "precio_base": 76.12,
+    "costo": 33.49,
+    "stock_inicial": 265
+  },
+  {
+    "producto_id": "PRD-0043",
+    "nombre": "Jugueteria Dicen Algo",
+    "categoria": "jugueteria",
+    "precio_base": 24.14,
+    "costo": 11.83,
+    "stock_inicial": 482
+  },
+  {
+    "producto_id": "PRD-0044",
+    "nombre": "Hogar Cultura Juego",
+    "categoria": "hogar",
+    "precio_base": 105.96,
+    "costo": 66.75,
+    "stock_inicial": 402
+  },
+  {
+    "producto_id": "PRD-0045",
+    "nombre": "Belleza Unidad Carrera",
+    "categoria": "belleza",
+    "precio_base": 37.15,
+    "costo": 22.66,
+    "stock_inicial": 489
+  },
+  {
+    "producto_id": "PRD-0046",
+    "nombre": "Electronica Voluntad Debido",
+    "categoria": "electronica",
+    "precio_base": 362.76,
+    "costo": 235.79,
+    "stock_inicial": 317
+  },
+  {
+    "producto_id": "PRD-0047",
+    "nombre": "Hogar Presenta Jefe",
+    "categoria": "hogar",
+    "precio_base": 243.07,
+    "costo": 106.95,
+    "stock_inicial": 332
+  },
+  {
+    "producto_id": "PRD-0048",
+    "nombre": "Deportes Quién Visita",
+    "categoria": "deportes",
+    "precio_base": 307.21,
+    "costo": 181.25,
+    "stock_inicial": 337
+  },
+  {
+    "producto_id": "PRD-0049",
+    "nombre": "Electronica Pasar Nombre",
+    "categoria": "electronica",
+    "precio_base": 1047.28,
+    "costo": 534.11,
+    "stock_inicial": 157
+  },
+  {
+    "producto_id": "PRD-0050",
+    "nombre": "Alimentos Señora Salud",
+    "categoria": "alimentos",
+    "precio_base": 11.33,
+    "costo": 5.55,
+    "stock_inicial": 99
+  },
+  {
+    "producto_id": "PRD-0051",
+    "nombre": "Electronica Común Martín",
+    "categoria": "electronica",
+    "precio_base": 328.46,
+    "costo": 157.66,
+    "stock_inicial": 314
+  },
+  {
+    "producto_id": "PRD-0052",
+    "nombre": "Deportes Investigación Próximo",
+    "categoria": "deportes",
+    "precio_base": 391.33,
+    "costo": 160.45,
+    "stock_inicial": 271
+  },
+  {
+    "producto_id": "PRD-0053",
+    "nombre": "Alimentos Tenido Tales",
+    "categoria": "alimentos",
+    "precio_base": 5.18,
+    "costo": 2.18,
+    "stock_inicial": 299
+  },
+  {
+    "producto_id": "PRD-0054",
+    "nombre": "Ropa Sus Función",
+    "categoria": "ropa",
+    "precio_base": 98.65,
+    "costo": 49.33,
+    "stock_inicial": 326
+  },
+  {
+    "producto_id": "PRD-0055",
+    "nombre": "Belleza Proceso Memoria",
+    "categoria": "belleza",
+    "precio_base": 20.29,
+    "costo": 10.55,
+    "stock_inicial": 63
+  },
+  {
+    "producto_id": "PRD-0056",
+    "nombre": "Hogar Esto Aumento",
+    "categoria": "hogar",
+    "precio_base": 236.84,
+    "costo": 144.47,
+    "stock_inicial": 89
+  },
+  {
+    "producto_id": "PRD-0057",
+    "nombre": "Deportes Mi Diversas",
+    "categoria": "deportes",
+    "precio_base": 398.67,
+    "costo": 167.44,
+    "stock_inicial": 176
+  },
+  {
+    "producto_id": "PRD-0058",
+    "nombre": "Hogar Quedó Menor",
+    "categoria": "hogar",
+    "precio_base": 175.53,
+    "costo": 96.54,
+    "stock_inicial": 96
+  },
+  {
+    "producto_id": "PRD-0059",
+    "nombre": "Hogar Armas Puedo",
+    "categoria": "hogar",
+    "precio_base": 145.94,
+    "costo": 87.56,
+    "stock_inicial": 27
+  },
+  {
+    "producto_id": "PRD-0060",
+    "nombre": "Jugueteria Sino Campaña",
+    "categoria": "jugueteria",
+    "precio_base": 139.14,
+    "costo": 76.53,
+    "stock_inicial": 57
+  },
+  {
+    "producto_id": "PRD-0061",
+    "nombre": "Electronica Silencio Mediante",
+    "categoria": "electronica",
+    "precio_base": 857.31,
+    "costo": 480.09,
+    "stock_inicial": 200
+  },
+  {
+    "producto_id": "PRD-0062",
+    "nombre": "Jugueteria Resultados Decir",
+    "categoria": "jugueteria",
+    "precio_base": 127.56,
+    "costo": 52.3,
+    "stock_inicial": 33
+  },
+  {
+    "producto_id": "PRD-0063",
+    "nombre": "Hogar Central Violencia",
+    "categoria": "hogar",
+    "precio_base": 215.94,
+    "costo": 123.09,
+    "stock_inicial": 175
+  },
+  {
+    "producto_id": "PRD-0064",
+    "nombre": "Hogar Tu Operación",
+    "categoria": "hogar",
+    "precio_base": 56.47,
+    "costo": 23.72,
+    "stock_inicial": 274
+  },
+  {
+    "producto_id": "PRD-0065",
+    "nombre": "Jugueteria Pequeña Hecho",
+    "categoria": "jugueteria",
+    "precio_base": 199.53,
+    "costo": 101.76,
+    "stock_inicial": 432
+  },
+  {
+    "producto_id": "PRD-0066",
+    "nombre": "Electronica Dónde Formación",
+    "categoria": "electronica",
+    "precio_base": 819.09,
+    "costo": 409.55,
+    "stock_inicial": 125
+  },
+  {
+    "producto_id": "PRD-0067",
+    "nombre": "Hogar Difícil Amigo",
+    "categoria": "hogar",
+    "precio_base": 101.45,
+    "costo": 57.83,
+    "stock_inicial": 326
+  },
+  {
+    "producto_id": "PRD-0068",
+    "nombre": "Ropa Cerca Consecuencia",
+    "categoria": "ropa",
+    "precio_base": 166.65,
+    "costo": 78.33,
+    "stock_inicial": 300
+  },
+  {
+    "producto_id": "PRD-0069",
+    "nombre": "Ropa Propios J",
+    "categoria": "ropa",
+    "precio_base": 55.23,
+    "costo": 33.14,
+    "stock_inicial": 491
+  },
+  {
+    "producto_id": "PRD-0070",
+    "nombre": "Electronica Estudios Problemas",
+    "categoria": "electronica",
+    "precio_base": 508.33,
+    "costo": 249.08,
+    "stock_inicial": 496
+  },
+  {
+    "producto_id": "PRD-0071",
+    "nombre": "Belleza Partidos Demás",
+    "categoria": "belleza",
+    "precio_base": 71.07,
+    "costo": 38.38,
+    "stock_inicial": 406
+  },
+  {
+    "producto_id": "PRD-0072",
+    "nombre": "Alimentos Radio Mal",
+    "categoria": "alimentos",
+    "precio_base": 32.66,
+    "costo": 17.31,
+    "stock_inicial": 367
+  },
+  {
+    "producto_id": "PRD-0073",
+    "nombre": "Belleza Cuales Mirada",
+    "categoria": "belleza",
+    "precio_base": 68.02,
+    "costo": 42.17,
+    "stock_inicial": 291
+  },
+  {
+    "producto_id": "PRD-0074",
+    "nombre": "Ropa Medidas Ésta",
+    "categoria": "ropa",
+    "precio_base": 100.23,
+    "costo": 43.1,
+    "stock_inicial": 478
+  },
+  {
+    "producto_id": "PRD-0075",
+    "nombre": "Jugueteria Vivir Investigación",
+    "categoria": "jugueteria",
+    "precio_base": 68.14,
+    "costo": 41.57,
+    "stock_inicial": 452
+  },
+  {
+    "producto_id": "PRD-0076",
+    "nombre": "Ropa Tales Violencia",
+    "categoria": "ropa",
+    "precio_base": 135.89,
+    "costo": 78.82,
+    "stock_inicial": 292
+  },
+  {
+    "producto_id": "PRD-0077",
+    "nombre": "Hogar Demás Sector",
+    "categoria": "hogar",
+    "precio_base": 59.81,
+    "costo": 37.68,
+    "stock_inicial": 176
+  },
+  {
+    "producto_id": "PRD-0078",
+    "nombre": "Ropa Parece Manos",
+    "categoria": "ropa",
+    "precio_base": 54.94,
+    "costo": 33.51,
+    "stock_inicial": 257
+  },
+  {
+    "producto_id": "PRD-0079",
+    "nombre": "Hogar Industria Muchas",
+    "categoria": "hogar",
+    "precio_base": 291.31,
+    "costo": 131.09,
+    "stock_inicial": 232
+  },
+  {
+    "producto_id": "PRD-0080",
+    "nombre": "Ropa Del Ya",
+    "categoria": "ropa",
+    "precio_base": 142.71,
+    "costo": 87.05,
+    "stock_inicial": 285
+  },
+  {
+    "producto_id": "PRD-0081",
+    "nombre": "Hogar Casi Boca",
+    "categoria": "hogar",
+    "precio_base": 115.75,
+    "costo": 71.77,
+    "stock_inicial": 427
+  },
+  {
+    "producto_id": "PRD-0082",
+    "nombre": "Hogar López P",
+    "categoria": "hogar",
+    "precio_base": 303.1,
+    "costo": 175.8,
+    "stock_inicial": 68
+  },
+  {
+    "producto_id": "PRD-0083",
+    "nombre": "Belleza Líder Futuro",
+    "categoria": "belleza",
+    "precio_base": 92.72,
+    "costo": 54.7,
+    "stock_inicial": 67
+  },
+  {
+    "producto_id": "PRD-0084",
+    "nombre": "Belleza Distintos Menor",
+    "categoria": "belleza",
+    "precio_base": 111.13,
+    "costo": 54.45,
+    "stock_inicial": 228
+  },
+  {
+    "producto_id": "PRD-0085",
+    "nombre": "Hogar Suficiente Carácter",
+    "categoria": "hogar",
+    "precio_base": 117.15,
+    "costo": 51.55,
+    "stock_inicial": 453
+  },
+  {
+    "producto_id": "PRD-0086",
+    "nombre": "Alimentos Solo Solamente",
+    "categoria": "alimentos",
+    "precio_base": 17.6,
+    "costo": 7.22,
+    "stock_inicial": 200
+  },
+  {
+    "producto_id": "PRD-0087",
+    "nombre": "Belleza Noche Público",
+    "categoria": "belleza",
+    "precio_base": 39.41,
+    "costo": 22.07,
+    "stock_inicial": 371
+  },
+  {
+    "producto_id": "PRD-0088",
+    "nombre": "Alimentos Seguro Organización",
+    "categoria": "alimentos",
+    "precio_base": 66.62,
+    "costo": 34.64,
+    "stock_inicial": 76
+  },
+  {
+    "producto_id": "PRD-0089",
+    "nombre": "Alimentos Estaban Pública",
+    "categoria": "alimentos",
+    "precio_base": 68.95,
+    "costo": 39.99,
+    "stock_inicial": 404
+  },
+  {
+    "producto_id": "PRD-0090",
+    "nombre": "Alimentos Llegado Hija",
+    "categoria": "alimentos",
+    "precio_base": 12.01,
+    "costo": 7.21,
+    "stock_inicial": 170
+  },
+  {
+    "producto_id": "PRD-0091",
+    "nombre": "Alimentos Cabo Técnica",
+    "categoria": "alimentos",
+    "precio_base": 49.81,
+    "costo": 23.91,
+    "stock_inicial": 87
+  },
+  {
+    "producto_id": "PRD-0092",
+    "nombre": "Electronica Imagen Miguel",
+    "categoria": "electronica",
+    "precio_base": 1162.25,
+    "costo": 674.11,
+    "stock_inicial": 243
+  },
+  {
+    "producto_id": "PRD-0093",
+    "nombre": "Electronica Análisis Precios",
+    "categoria": "electronica",
+    "precio_base": 901.82,
+    "costo": 432.87,
+    "stock_inicial": 408
+  },
+  {
+    "producto_id": "PRD-0094",
+    "nombre": "Ropa Entre Industria",
+    "categoria": "ropa",
+    "precio_base": 38.77,
+    "costo": 17.45,
+    "stock_inicial": 350
+  },
+  {
+    "producto_id": "PRD-0095",
+    "nombre": "Alimentos Director Voz",
+    "categoria": "alimentos",
+    "precio_base": 50.05,
+    "costo": 26.03,
+    "stock_inicial": 161
+  },
+  {
+    "producto_id": "PRD-0096",
+    "nombre": "Alimentos Joven Visita",
+    "categoria": "alimentos",
+    "precio_base": 78.09,
+    "costo": 49.2,
+    "stock_inicial": 497
+  },
+  {
+    "producto_id": "PRD-0097",
+    "nombre": "Ropa Octubre Mundo",
+    "categoria": "ropa",
+    "precio_base": 168.78,
+    "costo": 97.89,
+    "stock_inicial": 52
+  },
+  {
+    "producto_id": "PRD-0098",
+    "nombre": "Electronica Consejo Santa",
+    "categoria": "electronica",
+    "precio_base": 793.19,
+    "costo": 341.07,
+    "stock_inicial": 483
+  },
+  {
+    "producto_id": "PRD-0099",
+    "nombre": "Deportes Corazón Película",
+    "categoria": "deportes",
+    "precio_base": 360.62,
+    "costo": 198.34,
+    "stock_inicial": 27
+  },
+  {
+    "producto_id": "PRD-0100",
+    "nombre": "Electronica Diversas Decisión",
+    "categoria": "electronica",
+    "precio_base": 362.73,
+    "costo": 214.01,
+    "stock_inicial": 178
+  },
+  {
+    "producto_id": "PRD-0101",
+    "nombre": "Electronica Algunas Actividad",
+    "categoria": "electronica",
+    "precio_base": 1128.73,
+    "costo": 541.79,
+    "stock_inicial": 315
+  },
+  {
+    "producto_id": "PRD-0102",
+    "nombre": "Jugueteria Deseo Destino",
+    "categoria": "jugueteria",
+    "precio_base": 74.67,
+    "costo": 32.85,
+    "stock_inicial": 181
+  },
+  {
+    "producto_id": "PRD-0103",
+    "nombre": "Deportes He Proyectos",
+    "categoria": "deportes",
+    "precio_base": 375.62,
+    "costo": 187.81,
+    "stock_inicial": 355
+  },
+  {
+    "producto_id": "PRD-0104",
+    "nombre": "Deportes Cultura Oposición",
+    "categoria": "deportes",
+    "precio_base": 195.93,
+    "costo": 125.4,
+    "stock_inicial": 226
+  },
+  {
+    "producto_id": "PRD-0105",
+    "nombre": "Ropa Humanos Investigación",
+    "categoria": "ropa",
+    "precio_base": 78.57,
+    "costo": 47.14,
+    "stock_inicial": 256
+  },
+  {
+    "producto_id": "PRD-0106",
+    "nombre": "Hogar Pablo Él",
+    "categoria": "hogar",
+    "precio_base": 233.66,
+    "costo": 112.16,
+    "stock_inicial": 81
+  },
+  {
+    "producto_id": "PRD-0107",
+    "nombre": "Alimentos Partes Esos",
+    "categoria": "alimentos",
+    "precio_base": 52.86,
+    "costo": 22.73,
+    "stock_inicial": 368
+  },
+  {
+    "producto_id": "PRD-0108",
+    "nombre": "Jugueteria Particular Diez",
+    "categoria": "jugueteria",
+    "precio_base": 139.33,
+    "costo": 82.2,
+    "stock_inicial": 169
+  },
+  {
+    "producto_id": "PRD-0109",
+    "nombre": "Jugueteria Tampoco Según",
+    "categoria": "jugueteria",
+    "precio_base": 127.43,
+    "costo": 71.36,
+    "stock_inicial": 396
+  },
+  {
+    "producto_id": "PRD-0110",
+    "nombre": "Deportes Nuestro Vino",
+    "categoria": "deportes",
+    "precio_base": 208.82,
+    "costo": 89.79,
+    "stock_inicial": 164
+  },
+  {
+    "producto_id": "PRD-0111",
+    "nombre": "Alimentos Sectores Libertad",
+    "categoria": "alimentos",
+    "precio_base": 73.87,
+    "costo": 42.84,
+    "stock_inicial": 413
+  },
+  {
+    "producto_id": "PRD-0112",
+    "nombre": "Deportes Días Visto",
+    "categoria": "deportes",
+    "precio_base": 288.27,
+    "costo": 178.73,
+    "stock_inicial": 413
+  },
+  {
+    "producto_id": "PRD-0113",
+    "nombre": "Hogar Visita No",
+    "categoria": "hogar",
+    "precio_base": 163.22,
+    "costo": 81.61,
+    "stock_inicial": 30
+  },
+  {
+    "producto_id": "PRD-0114",
+    "nombre": "Hogar Dijo De",
+    "categoria": "hogar",
+    "precio_base": 254.22,
+    "costo": 142.36,
+    "stock_inicial": 307
+  },
+  {
+    "producto_id": "PRD-0115",
+    "nombre": "Electronica Puntos Unión",
+    "categoria": "electronica",
+    "precio_base": 1144.16,
+    "costo": 457.66,
+    "stock_inicial": 103
+  },
+  {
+    "producto_id": "PRD-0116",
+    "nombre": "Alimentos Derechos Club",
+    "categoria": "alimentos",
+    "precio_base": 9.21,
+    "costo": 5.71,
+    "stock_inicial": 84
+  },
+  {
+    "producto_id": "PRD-0117",
+    "nombre": "Hogar Asociación Gobierno",
+    "categoria": "hogar",
+    "precio_base": 154.72,
+    "costo": 77.36,
+    "stock_inicial": 355
+  },
+  {
+    "producto_id": "PRD-0118",
+    "nombre": "Ropa Hubo Aspectos",
+    "categoria": "ropa",
+    "precio_base": 53.23,
+    "costo": 28.74,
+    "stock_inicial": 84
+  },
+  {
+    "producto_id": "PRD-0119",
+    "nombre": "Ropa Cualquier Último",
+    "categoria": "ropa",
+    "precio_base": 170.18,
+    "costo": 93.6,
+    "stock_inicial": 142
+  },
+  {
+    "producto_id": "PRD-0120",
+    "nombre": "Deportes Ayer Ayuda",
+    "categoria": "deportes",
+    "precio_base": 290.54,
+    "costo": 139.46,
+    "stock_inicial": 416
+  },
+  {
+    "producto_id": "PRD-0121",
+    "nombre": "Electronica Muy Cierta",
+    "categoria": "electronica",
+    "precio_base": 881.74,
+    "costo": 449.69,
+    "stock_inicial": 358
+  },
+  {
+    "producto_id": "PRD-0122",
+    "nombre": "Deportes Derechos Conseguir",
+    "categoria": "deportes",
+    "precio_base": 249.51,
+    "costo": 127.25,
+    "stock_inicial": 304
+  },
+  {
+    "producto_id": "PRD-0123",
+    "nombre": "Ropa Hora Políticas",
+    "categoria": "ropa",
+    "precio_base": 40.34,
+    "costo": 23.8,
+    "stock_inicial": 95
+  },
+  {
+    "producto_id": "PRD-0124",
+    "nombre": "Ropa Riesgo Viejo",
+    "categoria": "ropa",
+    "precio_base": 172.02,
+    "costo": 111.81,
+    "stock_inicial": 297
+  },
+  {
+    "producto_id": "PRD-0125",
+    "nombre": "Hogar Condiciones Primer",
+    "categoria": "hogar",
+    "precio_base": 313.28,
+    "costo": 181.7,
+    "stock_inicial": 181
+  },
+  {
+    "producto_id": "PRD-0126",
+    "nombre": "Electronica Y Semana",
+    "categoria": "electronica",
+    "precio_base": 1043.23,
+    "costo": 511.18,
+    "stock_inicial": 65
+  },
+  {
+    "producto_id": "PRD-0127",
+    "nombre": "Belleza Argentina Domingo",
+    "categoria": "belleza",
+    "precio_base": 41.04,
+    "costo": 20.93,
+    "stock_inicial": 352
+  },
+  {
+    "producto_id": "PRD-0128",
+    "nombre": "Belleza Izquierda Expresión",
+    "categoria": "belleza",
+    "precio_base": 50.61,
+    "costo": 22.27,
+    "stock_inicial": 439
+  },
+  {
+    "producto_id": "PRD-0129",
+    "nombre": "Ropa Martín Teoría",
+    "categoria": "ropa",
+    "precio_base": 99.95,
+    "costo": 48.98,
+    "stock_inicial": 406
+  },
+  {
+    "producto_id": "PRD-0130",
+    "nombre": "Deportes Contenido Estamos",
+    "categoria": "deportes",
+    "precio_base": 395.01,
+    "costo": 252.81,
+    "stock_inicial": 450
+  },
+  {
+    "producto_id": "PRD-0131",
+    "nombre": "Electronica Cambios Finalmente",
+    "categoria": "electronica",
+    "precio_base": 345.73,
+    "costo": 141.75,
+    "stock_inicial": 260
+  },
+  {
+    "producto_id": "PRD-0132",
+    "nombre": "Electronica Rosa Lugar",
+    "categoria": "electronica",
+    "precio_base": 658.28,
+    "costo": 388.39,
+    "stock_inicial": 280
+  },
+  {
+    "producto_id": "PRD-0133",
+    "nombre": "Belleza Estudios Desarrollo",
+    "categoria": "belleza",
+    "precio_base": 96.84,
+    "costo": 40.67,
+    "stock_inicial": 483
+  },
+  {
+    "producto_id": "PRD-0134",
+    "nombre": "Belleza González Productos",
+    "categoria": "belleza",
+    "precio_base": 97.62,
+    "costo": 45.88,
+    "stock_inicial": 204
+  },
+  {
+    "producto_id": "PRD-0135",
+    "nombre": "Jugueteria Hombre Noviembre",
+    "categoria": "jugueteria",
+    "precio_base": 123.81,
+    "costo": 73.05,
+    "stock_inicial": 444
+  },
+  {
+    "producto_id": "PRD-0136",
+    "nombre": "Ropa Decía Pp",
+    "categoria": "ropa",
+    "precio_base": 103.8,
+    "costo": 44.63,
+    "stock_inicial": 211
+  },
+  {
+    "producto_id": "PRD-0137",
+    "nombre": "Ropa Seguro Mundial",
+    "categoria": "ropa",
+    "precio_base": 131.59,
+    "costo": 64.48,
+    "stock_inicial": 300
+  },
+  {
+    "producto_id": "PRD-0138",
+    "nombre": "Deportes Director Tan",
+    "categoria": "deportes",
+    "precio_base": 146.2,
+    "costo": 62.87,
+    "stock_inicial": 364
+  },
+  {
+    "producto_id": "PRD-0139",
+    "nombre": "Alimentos Población Políticas",
+    "categoria": "alimentos",
+    "precio_base": 18.66,
+    "costo": 11.2,
+    "stock_inicial": 341
+  },
+  {
+    "producto_id": "PRD-0140",
+    "nombre": "Hogar Tenía Curso",
+    "categoria": "hogar",
+    "precio_base": 117.83,
+    "costo": 62.45,
+    "stock_inicial": 22
+  },
+  {
+    "producto_id": "PRD-0141",
+    "nombre": "Jugueteria Lugar Precio",
+    "categoria": "jugueteria",
+    "precio_base": 142.42,
+    "costo": 64.09,
+    "stock_inicial": 447
+  },
+  {
+    "producto_id": "PRD-0142",
+    "nombre": "Hogar Chile Pone",
+    "categoria": "hogar",
+    "precio_base": 121.27,
+    "costo": 66.7,
+    "stock_inicial": 39
+  },
+  {
+    "producto_id": "PRD-0143",
+    "nombre": "Alimentos Elecciones Seguridad",
+    "categoria": "alimentos",
+    "precio_base": 22.39,
+    "costo": 14.11,
+    "stock_inicial": 210
+  },
+  {
+    "producto_id": "PRD-0144",
+    "nombre": "Hogar Económica Libertad",
+    "categoria": "hogar",
+    "precio_base": 78.08,
+    "costo": 45.29,
+    "stock_inicial": 385
+  },
+  {
+    "producto_id": "PRD-0145",
+    "nombre": "Deportes Ciento Técnica",
+    "categoria": "deportes",
+    "precio_base": 340.64,
+    "costo": 136.26,
+    "stock_inicial": 29
+  },
+  {
+    "producto_id": "PRD-0146",
+    "nombre": "Hogar Cómo Época",
+    "categoria": "hogar",
+    "precio_base": 85.82,
+    "costo": 37.76,
+    "stock_inicial": 376
+  },
+  {
+    "producto_id": "PRD-0147",
+    "nombre": "Alimentos Llamado Dice",
+    "categoria": "alimentos",
+    "precio_base": 49.96,
+    "costo": 25.48,
+    "stock_inicial": 221
+  },
+  {
+    "producto_id": "PRD-0148",
+    "nombre": "Ropa Hubiera No",
+    "categoria": "ropa",
+    "precio_base": 154.04,
+    "costo": 63.16,
+    "stock_inicial": 284
+  },
+  {
+    "producto_id": "PRD-0149",
+    "nombre": "Deportes Noviembre Nada",
+    "categoria": "deportes",
+    "precio_base": 273.72,
+    "costo": 131.39,
+    "stock_inicial": 280
+  },
+  {
+    "producto_id": "PRD-0150",
+    "nombre": "Electronica Última Debía",
+    "categoria": "electronica",
+    "precio_base": 820.22,
+    "costo": 500.33,
+    "stock_inicial": 219
+  },
+  {
+    "producto_id": "PRD-0151",
+    "nombre": "Ropa Vida Qué",
+    "categoria": "ropa",
+    "precio_base": 153.64,
+    "costo": 89.11,
+    "stock_inicial": 41
+  },
+  {
+    "producto_id": "PRD-0152",
+    "nombre": "Deportes Salida Político",
+    "categoria": "deportes",
+    "precio_base": 99.91,
+    "costo": 47.96,
+    "stock_inicial": 117
+  },
+  {
+    "producto_id": "PRD-0153",
+    "nombre": "Electronica Pocos Tengo",
+    "categoria": "electronica",
+    "precio_base": 1181.19,
+    "costo": 685.09,
+    "stock_inicial": 297
+  },
+  {
+    "producto_id": "PRD-0154",
+    "nombre": "Ropa Constitución Diciembre",
+    "categoria": "ropa",
+    "precio_base": 47.82,
+    "costo": 29.65,
+    "stock_inicial": 218
+  },
+  {
+    "producto_id": "PRD-0155",
+    "nombre": "Ropa Generales Le",
+    "categoria": "ropa",
+    "precio_base": 138.1,
+    "costo": 63.53,
+    "stock_inicial": 24
+  },
+  {
+    "producto_id": "PRD-0156",
+    "nombre": "Belleza Le Recursos",
+    "categoria": "belleza",
+    "precio_base": 94.72,
+    "costo": 46.41,
+    "stock_inicial": 500
+  },
+  {
+    "producto_id": "PRD-0157",
+    "nombre": "Hogar Necesario Éste",
+    "categoria": "hogar",
+    "precio_base": 269.24,
+    "costo": 121.16,
+    "stock_inicial": 481
+  },
+  {
+    "producto_id": "PRD-0158",
+    "nombre": "Deportes I Ministro",
+    "categoria": "deportes",
+    "precio_base": 230.04,
+    "costo": 98.92,
+    "stock_inicial": 295
+  },
+  {
+    "producto_id": "PRD-0159",
+    "nombre": "Electronica Visto Claro",
+    "categoria": "electronica",
+    "precio_base": 1128.82,
+    "costo": 586.99,
+    "stock_inicial": 111
+  },
+  {
+    "producto_id": "PRD-0160",
+    "nombre": "Ropa Obstante Hecho",
+    "categoria": "ropa",
+    "precio_base": 46.94,
+    "costo": 28.63,
+    "stock_inicial": 34
+  },
+  {
+    "producto_id": "PRD-0161",
+    "nombre": "Belleza Cabo Aquellas",
+    "categoria": "belleza",
+    "precio_base": 33.75,
+    "costo": 17.55,
+    "stock_inicial": 471
+  },
+  {
+    "producto_id": "PRD-0162",
+    "nombre": "Deportes Estaban Plan",
+    "categoria": "deportes",
+    "precio_base": 84.67,
+    "costo": 38.95,
+    "stock_inicial": 451
+  },
+  {
+    "producto_id": "PRD-0163",
+    "nombre": "Ropa Económico Tales",
+    "categoria": "ropa",
+    "precio_base": 92.65,
+    "costo": 51.88,
+    "stock_inicial": 130
+  },
+  {
+    "producto_id": "PRD-0164",
+    "nombre": "Hogar Pueden Pasado",
+    "categoria": "hogar",
+    "precio_base": 339.59,
+    "costo": 169.79,
+    "stock_inicial": 147
+  },
+  {
+    "producto_id": "PRD-0165",
+    "nombre": "Electronica Teatro Época",
+    "categoria": "electronica",
+    "precio_base": 913.18,
+    "costo": 365.27,
+    "stock_inicial": 268
+  },
+  {
+    "producto_id": "PRD-0166",
+    "nombre": "Electronica Bajo Imagen",
+    "categoria": "electronica",
+    "precio_base": 491.34,
+    "costo": 216.19,
+    "stock_inicial": 57
+  },
+  {
+    "producto_id": "PRD-0167",
+    "nombre": "Ropa Buenos Internacional",
+    "categoria": "ropa",
+    "precio_base": 159.02,
+    "costo": 79.51,
+    "stock_inicial": 351
+  },
+  {
+    "producto_id": "PRD-0168",
+    "nombre": "Electronica Futuro Decía",
+    "categoria": "electronica",
+    "precio_base": 302.83,
+    "costo": 160.5,
+    "stock_inicial": 275
+  },
+  {
+    "producto_id": "PRD-0169",
+    "nombre": "Electronica Eran Padres",
+    "categoria": "electronica",
+    "precio_base": 1064.16,
+    "costo": 553.36,
+    "stock_inicial": 444
+  },
+  {
+    "producto_id": "PRD-0170",
+    "nombre": "Ropa Fernando Ese",
+    "categoria": "ropa",
+    "precio_base": 111.76,
+    "costo": 50.29,
+    "stock_inicial": 489
+  },
+  {
+    "producto_id": "PRD-0171",
+    "nombre": "Alimentos Importancia Fondo",
+    "categoria": "alimentos",
+    "precio_base": 30.71,
+    "costo": 19.35,
+    "stock_inicial": 418
+  },
+  {
+    "producto_id": "PRD-0172",
+    "nombre": "Jugueteria Entre Punto",
+    "categoria": "jugueteria",
+    "precio_base": 143.3,
+    "costo": 64.48,
+    "stock_inicial": 418
+  },
+  {
+    "producto_id": "PRD-0173",
+    "nombre": "Ropa Medidas Solamente",
+    "categoria": "ropa",
+    "precio_base": 176.53,
+    "costo": 81.2,
+    "stock_inicial": 135
+  },
+  {
+    "producto_id": "PRD-0174",
+    "nombre": "Electronica Nueva Años",
+    "categoria": "electronica",
+    "precio_base": 316.77,
+    "costo": 171.06,
+    "stock_inicial": 307
+  },
+  {
+    "producto_id": "PRD-0175",
+    "nombre": "Ropa Norte Mar",
+    "categoria": "ropa",
+    "precio_base": 74.48,
+    "costo": 31.28,
+    "stock_inicial": 390
+  },
+  {
+    "producto_id": "PRD-0176",
+    "nombre": "Alimentos Dan Oro",
+    "categoria": "alimentos",
+    "precio_base": 71.08,
+    "costo": 37.67,
+    "stock_inicial": 180
+  },
+  {
+    "producto_id": "PRD-0177",
+    "nombre": "Electronica Está Puntos",
+    "categoria": "electronica",
+    "precio_base": 1066.18,
+    "costo": 479.78,
+    "stock_inicial": 132
+  },
+  {
+    "producto_id": "PRD-0178",
+    "nombre": "Belleza Dicen Lejos",
+    "categoria": "belleza",
+    "precio_base": 87.6,
+    "costo": 36.79,
+    "stock_inicial": 408
+  },
+  {
+    "producto_id": "PRD-0179",
+    "nombre": "Deportes Lucha Historia",
+    "categoria": "deportes",
+    "precio_base": 389.09,
+    "costo": 214.0,
+    "stock_inicial": 431
+  },
+  {
+    "producto_id": "PRD-0180",
+    "nombre": "Alimentos Necesidad Metros",
+    "categoria": "alimentos",
+    "precio_base": 16.31,
+    "costo": 9.79,
+    "stock_inicial": 246
+  },
+  {
+    "producto_id": "PRD-0181",
+    "nombre": "Deportes Padres Revolución",
+    "categoria": "deportes",
+    "precio_base": 106.33,
+    "costo": 52.1,
+    "stock_inicial": 85
+  },
+  {
+    "producto_id": "PRD-0182",
+    "nombre": "Hogar Lo Esto",
+    "categoria": "hogar",
+    "precio_base": 116.18,
+    "costo": 66.22,
+    "stock_inicial": 80
+  },
+  {
+    "producto_id": "PRD-0183",
+    "nombre": "Ropa Pocos Ministerio",
+    "categoria": "ropa",
+    "precio_base": 45.73,
+    "costo": 20.12,
+    "stock_inicial": 247
+  },
+  {
+    "producto_id": "PRD-0184",
+    "nombre": "Ropa Posible Puerto",
+    "categoria": "ropa",
+    "precio_base": 149.4,
+    "costo": 76.19,
+    "stock_inicial": 157
+  },
+  {
+    "producto_id": "PRD-0185",
+    "nombre": "Ropa López Popular",
+    "categoria": "ropa",
+    "precio_base": 178.75,
+    "costo": 73.29,
+    "stock_inicial": 307
+  },
+  {
+    "producto_id": "PRD-0186",
+    "nombre": "Deportes Asimismo Conseguir",
+    "categoria": "deportes",
+    "precio_base": 76.16,
+    "costo": 44.17,
+    "stock_inicial": 314
+  },
+  {
+    "producto_id": "PRD-0187",
+    "nombre": "Hogar Trabajo Nunca",
+    "categoria": "hogar",
+    "precio_base": 26.08,
+    "costo": 14.34,
+    "stock_inicial": 31
+  },
+  {
+    "producto_id": "PRD-0188",
+    "nombre": "Hogar Viene Señora",
+    "categoria": "hogar",
+    "precio_base": 105.38,
+    "costo": 60.07,
+    "stock_inicial": 229
+  },
+  {
+    "producto_id": "PRD-0189",
+    "nombre": "Ropa Tener Ciento",
+    "categoria": "ropa",
+    "precio_base": 178.76,
+    "costo": 85.8,
+    "stock_inicial": 492
+  },
+  {
+    "producto_id": "PRD-0190",
+    "nombre": "Hogar Problema Cultura",
+    "categoria": "hogar",
+    "precio_base": 236.97,
+    "costo": 113.75,
+    "stock_inicial": 344
+  },
+  {
+    "producto_id": "PRD-0191",
+    "nombre": "Jugueteria Alguien Medios",
+    "categoria": "jugueteria",
+    "precio_base": 173.53,
+    "costo": 83.29,
+    "stock_inicial": 299
+  },
+  {
+    "producto_id": "PRD-0192",
+    "nombre": "Hogar Dicen Aunque",
+    "categoria": "hogar",
+    "precio_base": 93.06,
+    "costo": 50.25,
+    "stock_inicial": 351
+  },
+  {
+    "producto_id": "PRD-0193",
+    "nombre": "Ropa Tema Primero",
+    "categoria": "ropa",
+    "precio_base": 46.6,
+    "costo": 19.57,
+    "stock_inicial": 390
+  },
+  {
+    "producto_id": "PRD-0194",
+    "nombre": "Electronica Sistema M",
+    "categoria": "electronica",
+    "precio_base": 175.92,
+    "costo": 102.03,
+    "stock_inicial": 379
+  },
+  {
+    "producto_id": "PRD-0195",
+    "nombre": "Ropa Cual Todavía",
+    "categoria": "ropa",
+    "precio_base": 173.27,
+    "costo": 98.76,
+    "stock_inicial": 349
+  },
+  {
+    "producto_id": "PRD-0196",
+    "nombre": "Alimentos Nuevos Cabo",
+    "categoria": "alimentos",
+    "precio_base": 41.23,
+    "costo": 18.14,
+    "stock_inicial": 430
+  },
+  {
+    "producto_id": "PRD-0197",
+    "nombre": "Hogar Atrás G",
+    "categoria": "hogar",
+    "precio_base": 46.5,
+    "costo": 20.0,
+    "stock_inicial": 193
+  },
+  {
+    "producto_id": "PRD-0198",
+    "nombre": "Electronica Ir Tierra",
+    "categoria": "electronica",
+    "precio_base": 359.6,
+    "costo": 165.42,
+    "stock_inicial": 345
+  },
+  {
+    "producto_id": "PRD-0199",
+    "nombre": "Electronica Posibilidad Frente",
+    "categoria": "electronica",
+    "precio_base": 375.09,
+    "costo": 165.04,
+    "stock_inicial": 157
+  },
+  {
+    "producto_id": "PRD-0200",
+    "nombre": "Ropa Claro Apenas",
+    "categoria": "ropa",
+    "precio_base": 33.95,
+    "costo": 15.62,
+    "stock_inicial": 424
+  }
+]

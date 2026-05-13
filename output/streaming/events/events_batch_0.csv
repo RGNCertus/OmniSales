@@ -1,0 +1,5 @@
+message_key,kafka_timestamp,event_id,venta_id,event_type,canal,cliente_id,segmento,producto_id,categoria,cantidad,precio_base,descuento_pct,precio_final,monto_venta,metodo_pago,stock_actual,alerta,event_timestamp,processing_timestamp,batch_id
+VS-0002914,2026-05-13 04:25:32.674,EVT-0000381,VS-0002914,venta_completada,tienda_sur,CLI-01195,recurrente,PRD-0093,electronica,5,901.82,0.0,901.82,4509.1,tarjeta,322,,2026-05-13 04:25:32,2026-05-13 04:25:33.012,0
+VS-0002135,2026-05-13 04:25:32.777,EVT-0000382,VS-0002135,venta_completada,tienda_sur,CLI-00779,recurrente,PRD-0010,ropa,1,147.48,0.0,147.48,147.48,transferencia,14,,2026-05-13 04:25:32,2026-05-13 04:25:33.012,0
+VS-0002672,2026-05-13 04:25:32.881,EVT-0000383,VS-0002672,venta_completada,tienda_sur,CLI-00838,nuevo,PRD-0049,electronica,3,1047.28,5.0,994.92,2984.76,tarjeta,76,,2026-05-13 04:25:32,2026-05-13 04:25:33.012,0
+VN-0001637,2026-05-13 04:25:32.984,EVT-0000384,VN-0001637,venta_completada,tienda_norte,CLI-02321,recurrente,PRD-0019,deportes,1,290.02,5.0,275.52,275.52,transferencia,107,,2026-05-13 04:25:32,2026-05-13 04:25:33.012,0

@@ -1,0 +1,9 @@
+canal,total_eventos,monto_promedio,monto_total,ventas_completadas,alertas_detectadas,batch_id
+tienda_sur,3,2547.11,7641.34,3,0,0
+tienda_norte,1,275.52,275.52,1,0,0
+tienda_norte,40,543.48,21739.01,15,1,1
+tienda_sur,40,471.14,18845.71,13,1,1
+tienda_sur,44,1074.27,47267.91,16,1,2
+tienda_norte,39,963.91,37592.62,8,3,2
+tienda_norte,28,1092.05,30577.28,12,1,3
+tienda_sur,25,938.26,23456.43,3,3,3

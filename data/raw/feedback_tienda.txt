@@ -1,0 +1,801 @@
+FECHA|CLIENTE_ID|CANAL|CALIFICACION|COMENTARIO
+2026-02-25|CLI-00569|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-14|CLI-01278|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-01-14|CLI-00878|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-02-07|CLI-00254|online|2|Tardaron demasiado en atenderme.
+2026-03-07|CLI-02836|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-16|CLI-00664|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-01-20|CLI-01775|tienda_norte|1|Los precios son más altos que en otros lugares.
+2026-02-21|CLI-01052|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-16|CLI-00968|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-02-17|CLI-01485|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-01-29|CLI-02739|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-01-10|CLI-00876|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-25|CLI-02225|online|5|Precios competitivos y buena experiencia general.
+2026-02-05|CLI-02695|tienda_norte|4|Los productos son de muy buena calidad.
+2026-02-06|CLI-00224|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-02-13|CLI-01891|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-03-08|CLI-02351|tienda_sur|1|El producto llegó con empaque dañado.
+2026-03-10|CLI-00298|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-03-25|CLI-02698|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-02-01|CLI-02899|online|5|Excelente atención del personal, volveré pronto.
+2026-01-27|CLI-00576|online|5|Precios competitivos y buena experiencia general.
+2026-03-23|CLI-00800|tienda_sur|1|El producto llegó con empaque dañado.
+2026-02-25|CLI-02704|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-01-05|CLI-02184|tienda_sur|2|El personal no supo resolver mi consulta.
+2026-01-03|CLI-00021|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-01-29|CLI-00516|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-03-03|CLI-02943|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-03-19|CLI-02257|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-02-10|CLI-00778|tienda_sur|2|Muy poca variedad en la categoría que busqué.
+2026-03-10|CLI-01031|online|2|Tardaron demasiado en atenderme.
+2026-03-25|CLI-01320|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-02-03|CLI-02632|tienda_sur|3|La atención fue adecuada pero no destacó.
+2026-02-16|CLI-01354|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-02-19|CLI-00783|tienda_norte|4|Los productos son de muy buena calidad.
+2026-02-04|CLI-02622|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-01-04|CLI-02457|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-01-19|CLI-01910|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-12|CLI-00492|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-02|CLI-02542|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-01-16|CLI-00575|online|4|Excelente atención del personal, volveré pronto.
+2026-03-11|CLI-02326|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-02-28|CLI-00033|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-01-10|CLI-01367|tienda_norte|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-21|CLI-02394|online|4|Muy buena variedad de productos disponibles.
+2026-01-23|CLI-02753|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-20|CLI-02270|online|3|La atención fue adecuada pero no destacó.
+2026-01-03|CLI-02589|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-03-19|CLI-01734|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-14|CLI-02450|online|3|Regular, algunos productos no estaban disponibles.
+2026-01-11|CLI-01857|online|4|Proceso de compra rápido y sin complicaciones.
+2026-03-24|CLI-01016|tienda_norte|5|Los productos son de muy buena calidad.
+2026-02-19|CLI-02701|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-03|CLI-01168|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-27|CLI-02195|online|4|Proceso de compra rápido y sin complicaciones.
+2026-01-01|CLI-00655|tienda_norte|3|Tiempo de espera aceptable pero podría mejorar.
+2026-01-03|CLI-02492|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-01-25|CLI-01458|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-01-21|CLI-01859|online|4|Los productos son de muy buena calidad.
+2026-02-21|CLI-01405|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-03-20|CLI-02197|online|2|El producto llegó con empaque dañado.
+2026-03-30|CLI-02834|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-03-21|CLI-02997|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-05|CLI-00396|tienda_sur|2|Tardaron demasiado en atenderme.
+2026-01-04|CLI-00423|online|2|El personal no supo resolver mi consulta.
+2026-01-14|CLI-02295|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-21|CLI-02541|online|3|El producto cumplió las expectativas básicas.
+2026-03-28|CLI-00958|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-03-13|CLI-01787|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-21|CLI-01285|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-21|CLI-02205|tienda_norte|2|Tardaron demasiado en atenderme.
+2026-01-04|CLI-01979|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-24|CLI-02913|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-03-08|CLI-02504|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-01-10|CLI-00705|online|2|El producto llegó con empaque dañado.
+2026-03-24|CLI-02677|tienda_norte|4|Los productos son de muy buena calidad.
+2026-03-03|CLI-02853|online|4|Proceso de compra rápido y sin complicaciones.
+2026-01-09|CLI-01844|online|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-02-27|CLI-02541|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-30|CLI-02133|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-03-15|CLI-01987|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-02-17|CLI-01547|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-02-08|CLI-00735|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-06|CLI-01081|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-10|CLI-00973|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-02|CLI-01904|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-17|CLI-02508|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-02-03|CLI-02704|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-31|CLI-00915|online|3|El producto cumplió las expectativas básicas.
+2026-03-20|CLI-00907|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-02|CLI-02845|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-03-03|CLI-01095|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-03-23|CLI-01919|tienda_norte|2|El personal no supo resolver mi consulta.
+2026-03-07|CLI-01916|tienda_sur|4|Los productos son de muy buena calidad.
+2026-03-12|CLI-02261|online|4|Excelente atención del personal, volveré pronto.
+2026-03-05|CLI-00488|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-08|CLI-02469|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-11|CLI-02398|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-08|CLI-00766|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-01-24|CLI-00061|online|5|La tienda estaba muy ordenada y limpia.
+2026-01-07|CLI-02521|tienda_norte|5|Los productos son de muy buena calidad.
+2026-01-15|CLI-01023|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-03-08|CLI-01184|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-03-25|CLI-01042|tienda_sur|3|La atención fue adecuada pero no destacó.
+2026-01-01|CLI-01420|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-05|CLI-02051|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-01-29|CLI-00148|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-07|CLI-01546|tienda_sur|1|El producto llegó con empaque dañado.
+2026-01-10|CLI-02528|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-02-10|CLI-01976|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-20|CLI-00158|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-14|CLI-01557|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-07|CLI-02287|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-22|CLI-01113|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-02-23|CLI-01642|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-02-24|CLI-01225|online|2|Tardaron demasiado en atenderme.
+2026-02-05|CLI-00134|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-02-25|CLI-02471|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-01|CLI-00925|online|4|Precios competitivos y buena experiencia general.
+2026-03-12|CLI-02125|tienda_norte|1|El personal no supo resolver mi consulta.
+2026-03-27|CLI-00447|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-02-25|CLI-02694|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-03-11|CLI-01128|tienda_norte|1|Muy poca variedad en la categoría que busqué.
+2026-03-07|CLI-02182|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-03-08|CLI-00037|online|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-08|CLI-00381|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-02-04|CLI-01765|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-02-14|CLI-02059|online|4|Proceso de compra rápido y sin complicaciones.
+2026-02-22|CLI-00097|tienda_sur|1|El producto llegó con empaque dañado.
+2026-01-30|CLI-02639|online|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-16|CLI-02771|tienda_norte|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-02-12|CLI-00247|tienda_sur|3|Regular, algunos productos no estaban disponibles.
+2026-01-11|CLI-01220|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-11|CLI-00587|online|5|Excelente atención del personal, volveré pronto.
+2026-02-21|CLI-01501|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-01-11|CLI-01911|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-02-26|CLI-02248|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-01|CLI-00015|tienda_norte|3|Tiempo de espera aceptable pero podría mejorar.
+2026-01-03|CLI-00763|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-03-01|CLI-02255|online|4|La tienda estaba muy ordenada y limpia.
+2026-03-25|CLI-02846|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-01-04|CLI-00065|online|5|Proceso de compra rápido y sin complicaciones.
+2026-02-18|CLI-01356|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-02-07|CLI-01505|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-27|CLI-02124|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-06|CLI-02499|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-03-10|CLI-02752|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-31|CLI-01013|tienda_norte|2|El producto llegó con empaque dañado.
+2026-01-02|CLI-00948|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-03-07|CLI-01937|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-08|CLI-01903|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-03-13|CLI-01246|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-03-04|CLI-00415|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-01-13|CLI-02441|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-03-23|CLI-00664|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-13|CLI-00189|tienda_sur|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-19|CLI-00955|online|4|La tienda estaba muy ordenada y limpia.
+2026-02-02|CLI-00771|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-20|CLI-00095|online|5|Precios competitivos y buena experiencia general.
+2026-01-29|CLI-01105|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-03-09|CLI-01989|online|4|Excelente atención del personal, volveré pronto.
+2026-02-04|CLI-02326|online|5|Excelente atención del personal, volveré pronto.
+2026-02-03|CLI-00692|online|2|El producto llegó con empaque dañado.
+2026-01-05|CLI-02098|tienda_norte|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-17|CLI-01077|tienda_norte|4|Los productos son de muy buena calidad.
+2026-03-05|CLI-02919|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-18|CLI-02879|tienda_sur|3|La atención fue adecuada pero no destacó.
+2026-02-14|CLI-01399|online|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-20|CLI-02359|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-28|CLI-01696|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-02-03|CLI-00019|online|3|La experiencia fue correcta, nada especial.
+2026-02-27|CLI-00219|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-07|CLI-01611|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-10|CLI-00519|tienda_sur|2|Tardaron demasiado en atenderme.
+2026-02-17|CLI-02770|tienda_norte|3|La experiencia fue correcta, nada especial.
+2026-02-19|CLI-01228|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-03-13|CLI-00221|tienda_norte|5|Los productos son de muy buena calidad.
+2026-03-07|CLI-00573|online|2|Tardaron demasiado en atenderme.
+2026-03-29|CLI-01976|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-01-13|CLI-01347|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-02-03|CLI-02392|online|2|El personal no supo resolver mi consulta.
+2026-01-17|CLI-00431|online|3|La experiencia fue correcta, nada especial.
+2026-03-06|CLI-01751|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-11|CLI-01972|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-31|CLI-01489|online|4|Proceso de compra rápido y sin complicaciones.
+2026-01-16|CLI-02842|online|4|Precios competitivos y buena experiencia general.
+2026-02-23|CLI-00128|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-03-10|CLI-00751|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-01-23|CLI-00453|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-22|CLI-01608|online|4|Proceso de compra rápido y sin complicaciones.
+2026-03-12|CLI-01561|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-15|CLI-02210|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-01-24|CLI-02147|online|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-20|CLI-01002|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-02-02|CLI-01526|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-03-21|CLI-02129|online|4|Excelente atención del personal, volveré pronto.
+2026-03-15|CLI-01371|online|4|Precios competitivos y buena experiencia general.
+2026-01-18|CLI-00967|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-01-14|CLI-00807|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-04|CLI-01649|online|5|Los productos son de muy buena calidad.
+2026-01-11|CLI-02207|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-03|CLI-01926|online|3|El producto cumplió las expectativas básicas.
+2026-03-13|CLI-01628|online|4|Muy buena variedad de productos disponibles.
+2026-03-15|CLI-00014|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-02-20|CLI-01456|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-10|CLI-01280|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-03-05|CLI-01930|tienda_norte|4|Precios competitivos y buena experiencia general.
+2026-02-01|CLI-00531|online|5|Los productos son de muy buena calidad.
+2026-02-21|CLI-00577|tienda_norte|1|El producto llegó con empaque dañado.
+2026-01-15|CLI-00843|tienda_sur|2|El personal no supo resolver mi consulta.
+2026-02-01|CLI-01665|tienda_sur|1|El personal no supo resolver mi consulta.
+2026-03-10|CLI-00867|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-01-23|CLI-01788|online|4|Muy buena variedad de productos disponibles.
+2026-01-08|CLI-01737|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-04|CLI-02710|online|4|Excelente atención del personal, volveré pronto.
+2026-02-22|CLI-01669|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-03-15|CLI-00562|tienda_sur|2|Los precios son más altos que en otros lugares.
+2026-01-14|CLI-01046|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-01-27|CLI-00099|tienda_norte|5|Los productos son de muy buena calidad.
+2026-01-08|CLI-01605|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-11|CLI-00044|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-01-04|CLI-02837|online|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-02-05|CLI-01589|online|4|Proceso de compra rápido y sin complicaciones.
+2026-01-01|CLI-01154|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-03-26|CLI-02978|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-02-15|CLI-01599|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-02-20|CLI-01800|tienda_sur|3|El producto cumplió las expectativas básicas.
+2026-02-26|CLI-02156|tienda_sur|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-18|CLI-00879|tienda_sur|5|Los productos son de muy buena calidad.
+2026-03-10|CLI-00835|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-22|CLI-00121|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-03-07|CLI-00443|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-01-28|CLI-00150|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-03-14|CLI-00556|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-01-30|CLI-02966|tienda_sur|2|Tardaron demasiado en atenderme.
+2026-03-28|CLI-02708|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-01-01|CLI-02325|tienda_sur|3|El producto cumplió las expectativas básicas.
+2026-01-15|CLI-00584|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-03-05|CLI-02734|online|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-17|CLI-00520|online|4|La tienda estaba muy ordenada y limpia.
+2026-03-13|CLI-00303|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-03-05|CLI-00487|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-01-10|CLI-02340|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-02-18|CLI-00113|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-01-11|CLI-02325|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-20|CLI-02927|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-02-27|CLI-01717|online|5|Excelente atención del personal, volveré pronto.
+2026-02-20|CLI-01983|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-01-12|CLI-01594|online|1|Los precios son más altos que en otros lugares.
+2026-02-01|CLI-02385|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-02-20|CLI-02933|tienda_norte|2|Muy poca variedad en la categoría que busqué.
+2026-01-28|CLI-00939|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-03-01|CLI-02533|tienda_sur|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-31|CLI-00170|tienda_norte|3|La experiencia fue correcta, nada especial.
+2026-01-30|CLI-02055|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-03-10|CLI-00403|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-01-06|CLI-02549|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-03-06|CLI-02144|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-24|CLI-01140|online|5|La tienda estaba muy ordenada y limpia.
+2026-03-10|CLI-02199|tienda_norte|2|Tardaron demasiado en atenderme.
+2026-02-01|CLI-01821|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-01-20|CLI-02180|online|2|Tardaron demasiado en atenderme.
+2026-03-29|CLI-01834|online|4|Proceso de compra rápido y sin complicaciones.
+2026-03-27|CLI-02840|online|5|La tienda estaba muy ordenada y limpia.
+2026-02-05|CLI-02870|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-03-09|CLI-01607|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-02-03|CLI-00507|online|3|La atención fue adecuada pero no destacó.
+2026-02-21|CLI-01759|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-01-27|CLI-01731|tienda_sur|3|Regular, algunos productos no estaban disponibles.
+2026-03-06|CLI-01758|online|4|Excelente atención del personal, volveré pronto.
+2026-03-12|CLI-02249|online|5|Proceso de compra rápido y sin complicaciones.
+2026-03-25|CLI-02973|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-02-06|CLI-00063|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-01-21|CLI-01748|online|2|Tardaron demasiado en atenderme.
+2026-02-27|CLI-00138|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-03-03|CLI-02274|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-01-15|CLI-01131|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-02-12|CLI-02032|online|5|Excelente atención del personal, volveré pronto.
+2026-02-07|CLI-02577|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-25|CLI-00853|online|5|Proceso de compra rápido y sin complicaciones.
+2026-02-17|CLI-00280|online|5|Proceso de compra rápido y sin complicaciones.
+2026-03-03|CLI-02511|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-03-17|CLI-02946|online|4|Excelente atención del personal, volveré pronto.
+2026-01-30|CLI-01591|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-03-11|CLI-01244|tienda_sur|5|Los productos son de muy buena calidad.
+2026-01-12|CLI-00592|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-03-22|CLI-00492|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-01-24|CLI-00380|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-12|CLI-01180|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-02-21|CLI-00267|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-02-07|CLI-02049|online|2|El producto llegó con empaque dañado.
+2026-03-05|CLI-00464|tienda_norte|4|Los productos son de muy buena calidad.
+2026-01-31|CLI-01112|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-15|CLI-00492|online|3|Tiempo de espera aceptable pero podría mejorar.
+2026-02-15|CLI-02585|tienda_norte|2|El personal no supo resolver mi consulta.
+2026-02-25|CLI-00677|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-03-19|CLI-02848|online|4|Los productos son de muy buena calidad.
+2026-01-08|CLI-01584|online|5|Excelente atención del personal, volveré pronto.
+2026-03-24|CLI-01269|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-03|CLI-00547|online|4|La tienda estaba muy ordenada y limpia.
+2026-01-09|CLI-01989|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-01-03|CLI-00365|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-03|CLI-00437|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-03-10|CLI-00003|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-03-26|CLI-00833|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-03|CLI-01297|online|2|Tardaron demasiado en atenderme.
+2026-03-01|CLI-02107|online|4|Excelente atención del personal, volveré pronto.
+2026-03-20|CLI-01504|tienda_norte|1|El personal no supo resolver mi consulta.
+2026-02-24|CLI-01967|online|3|Tiempo de espera aceptable pero podría mejorar.
+2026-02-19|CLI-00243|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-20|CLI-02882|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-02-18|CLI-02069|tienda_sur|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-22|CLI-01481|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-03-09|CLI-02315|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-30|CLI-02311|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-03-23|CLI-01450|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-03-01|CLI-00211|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-03|CLI-00620|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-02-09|CLI-02481|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-02-22|CLI-02003|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-24|CLI-00925|online|4|Proceso de compra rápido y sin complicaciones.
+2026-01-08|CLI-00135|online|3|La experiencia fue correcta, nada especial.
+2026-01-31|CLI-02148|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-03-17|CLI-01974|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-05|CLI-00944|online|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-16|CLI-00641|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-01-01|CLI-02462|tienda_norte|2|Tardaron demasiado en atenderme.
+2026-01-25|CLI-02471|online|3|El producto cumplió las expectativas básicas.
+2026-03-07|CLI-00594|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-20|CLI-02551|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-02-01|CLI-00230|online|4|Precios competitivos y buena experiencia general.
+2026-01-08|CLI-02654|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-02-10|CLI-00664|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-03-06|CLI-01665|tienda_sur|3|El producto cumplió las expectativas básicas.
+2026-01-22|CLI-02616|online|2|Tardaron demasiado en atenderme.
+2026-01-25|CLI-01621|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-03-04|CLI-01477|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-28|CLI-01803|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-03-22|CLI-00935|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-02-14|CLI-00417|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-01-12|CLI-01208|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-02-25|CLI-01990|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-01-25|CLI-01433|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-19|CLI-02202|online|5|Los productos son de muy buena calidad.
+2026-03-13|CLI-00679|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-02-28|CLI-02696|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-14|CLI-01686|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-01-09|CLI-02857|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-02-01|CLI-01670|tienda_sur|2|Tardaron demasiado en atenderme.
+2026-03-17|CLI-02084|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-02-12|CLI-01474|online|3|El producto cumplió las expectativas básicas.
+2026-02-26|CLI-00736|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-03-04|CLI-01831|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-01-26|CLI-00186|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-03-26|CLI-00908|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-01-25|CLI-02051|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-03-02|CLI-01821|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-10|CLI-00102|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-19|CLI-01251|online|3|Regular, algunos productos no estaban disponibles.
+2026-01-05|CLI-00121|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-03-17|CLI-00720|online|4|Los productos son de muy buena calidad.
+2026-02-13|CLI-00821|online|4|Precios competitivos y buena experiencia general.
+2026-01-30|CLI-02901|tienda_norte|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-17|CLI-01716|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-01-17|CLI-00706|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-22|CLI-02220|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-14|CLI-00905|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-03-09|CLI-02518|tienda_sur|1|Los precios son más altos que en otros lugares.
+2026-01-02|CLI-00537|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-02-14|CLI-02428|online|5|Precios competitivos y buena experiencia general.
+2026-02-07|CLI-01802|online|2|El producto llegó con empaque dañado.
+2026-03-25|CLI-00394|tienda_norte|4|Precios competitivos y buena experiencia general.
+2026-01-19|CLI-01975|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-28|CLI-02728|online|4|Muy buena variedad de productos disponibles.
+2026-03-10|CLI-01282|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-02-05|CLI-02777|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-05|CLI-02982|online|4|Proceso de compra rápido y sin complicaciones.
+2026-01-15|CLI-02003|online|5|Los productos son de muy buena calidad.
+2026-03-21|CLI-02486|tienda_norte|1|El producto llegó con empaque dañado.
+2026-02-04|CLI-02366|tienda_sur|3|Regular, algunos productos no estaban disponibles.
+2026-03-21|CLI-02013|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-02-28|CLI-01422|online|1|Tardaron demasiado en atenderme.
+2026-01-23|CLI-01203|tienda_norte|5|Los productos son de muy buena calidad.
+2026-01-02|CLI-02463|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-01-11|CLI-01619|online|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-24|CLI-01380|tienda_sur|2|Los precios son más altos que en otros lugares.
+2026-01-23|CLI-00812|tienda_sur|3|La atención fue adecuada pero no destacó.
+2026-01-10|CLI-02171|tienda_norte|2|Muy poca variedad en la categoría que busqué.
+2026-02-12|CLI-00668|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-13|CLI-01840|tienda_sur|3|La atención fue adecuada pero no destacó.
+2026-02-05|CLI-00934|online|2|Tardaron demasiado en atenderme.
+2026-03-01|CLI-02742|tienda_sur|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-15|CLI-01585|tienda_norte|1|Tardaron demasiado en atenderme.
+2026-03-31|CLI-00452|tienda_norte|4|Los productos son de muy buena calidad.
+2026-01-28|CLI-01657|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-03-28|CLI-01514|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-02-22|CLI-00354|online|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-21|CLI-02004|tienda_norte|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-02-12|CLI-01874|tienda_sur|5|Proceso de compra rápido y sin complicaciones.
+2026-02-07|CLI-01195|online|4|Los productos son de muy buena calidad.
+2026-02-05|CLI-01052|online|4|Precios competitivos y buena experiencia general.
+2026-03-30|CLI-02611|tienda_norte|5|Los productos son de muy buena calidad.
+2026-03-10|CLI-02459|online|5|Muy buena variedad de productos disponibles.
+2026-02-16|CLI-01519|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-15|CLI-01590|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-03-27|CLI-02574|online|5|Precios competitivos y buena experiencia general.
+2026-03-18|CLI-00258|online|5|Muy buena variedad de productos disponibles.
+2026-01-20|CLI-00216|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-18|CLI-00850|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-09|CLI-01194|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-03-20|CLI-01126|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-03-02|CLI-00014|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-23|CLI-00475|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-02-15|CLI-02256|tienda_norte|4|Los productos son de muy buena calidad.
+2026-01-16|CLI-00828|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-03-23|CLI-00456|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-03-30|CLI-00415|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-03-25|CLI-00536|tienda_norte|4|Los productos son de muy buena calidad.
+2026-03-31|CLI-02010|online|3|Tiempo de espera aceptable pero podría mejorar.
+2026-02-17|CLI-00103|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-14|CLI-00251|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-02-19|CLI-01538|tienda_norte|4|Los productos son de muy buena calidad.
+2026-02-15|CLI-01391|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-01|CLI-00854|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-01-05|CLI-01272|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-02-24|CLI-00739|online|3|La experiencia fue correcta, nada especial.
+2026-01-07|CLI-02428|tienda_norte|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-02|CLI-00340|tienda_norte|4|Precios competitivos y buena experiencia general.
+2026-01-15|CLI-02078|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-02-01|CLI-02032|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-09|CLI-01794|online|4|Proceso de compra rápido y sin complicaciones.
+2026-02-05|CLI-01623|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-21|CLI-01351|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-06|CLI-02070|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-03-20|CLI-01186|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-03-30|CLI-00104|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-01-24|CLI-01283|online|4|Precios competitivos y buena experiencia general.
+2026-03-25|CLI-02620|online|2|Tardaron demasiado en atenderme.
+2026-01-19|CLI-02641|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-03-14|CLI-01136|tienda_norte|5|Los productos son de muy buena calidad.
+2026-01-21|CLI-02559|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-02-05|CLI-00306|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-01-19|CLI-02330|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-10|CLI-00653|tienda_norte|5|Los productos son de muy buena calidad.
+2026-01-01|CLI-00789|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-01-17|CLI-00374|tienda_norte|2|Tardaron demasiado en atenderme.
+2026-01-20|CLI-02632|tienda_sur|2|Los precios son más altos que en otros lugares.
+2026-03-23|CLI-01707|tienda_sur|2|Los precios son más altos que en otros lugares.
+2026-02-05|CLI-02256|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-02|CLI-00011|online|4|Precios competitivos y buena experiencia general.
+2026-03-09|CLI-01384|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-02-10|CLI-00137|online|3|La experiencia fue correcta, nada especial.
+2026-01-29|CLI-01133|tienda_norte|5|Los productos son de muy buena calidad.
+2026-03-28|CLI-00153|tienda_sur|1|Tardaron demasiado en atenderme.
+2026-02-19|CLI-02260|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-03-30|CLI-00652|online|2|Tardaron demasiado en atenderme.
+2026-02-22|CLI-00148|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-01-05|CLI-00418|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-16|CLI-02674|online|5|Muy buena variedad de productos disponibles.
+2026-03-06|CLI-00903|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-20|CLI-02086|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-02-08|CLI-02972|online|5|La tienda estaba muy ordenada y limpia.
+2026-02-11|CLI-01947|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-03-01|CLI-00325|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-02-26|CLI-00216|online|3|La atención fue adecuada pero no destacó.
+2026-01-13|CLI-02260|online|3|La atención fue adecuada pero no destacó.
+2026-02-17|CLI-00589|online|5|Muy buena variedad de productos disponibles.
+2026-02-12|CLI-02752|tienda_sur|2|Muy poca variedad en la categoría que busqué.
+2026-01-20|CLI-02344|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-29|CLI-01319|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-02-07|CLI-01436|online|3|La experiencia fue correcta, nada especial.
+2026-02-22|CLI-01800|online|3|La atención fue adecuada pero no destacó.
+2026-03-06|CLI-00342|tienda_sur|2|Muy poca variedad en la categoría que busqué.
+2026-03-31|CLI-01297|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-01-20|CLI-02829|tienda_sur|2|Tardaron demasiado en atenderme.
+2026-02-28|CLI-02819|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-07|CLI-01976|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-01-05|CLI-02413|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-05|CLI-01051|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-01-01|CLI-00107|online|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-04|CLI-00398|tienda_norte|5|Los productos son de muy buena calidad.
+2026-03-11|CLI-00735|online|4|Proceso de compra rápido y sin complicaciones.
+2026-02-13|CLI-01911|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-22|CLI-00656|online|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-22|CLI-02021|tienda_norte|4|Los productos son de muy buena calidad.
+2026-02-02|CLI-00047|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-22|CLI-02899|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-03-14|CLI-01428|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-02-08|CLI-00234|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-03-03|CLI-00187|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-22|CLI-01889|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-27|CLI-02763|online|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-28|CLI-02030|tienda_sur|3|La atención fue adecuada pero no destacó.
+2026-01-03|CLI-00574|online|5|Precios competitivos y buena experiencia general.
+2026-02-02|CLI-01998|online|3|La experiencia fue correcta, nada especial.
+2026-01-24|CLI-01883|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-30|CLI-02716|tienda_sur|5|Los productos son de muy buena calidad.
+2026-01-22|CLI-01967|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-03-14|CLI-02981|online|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-31|CLI-01717|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-02-22|CLI-01940|online|3|La experiencia fue correcta, nada especial.
+2026-03-02|CLI-01596|online|5|La tienda estaba muy ordenada y limpia.
+2026-01-20|CLI-01301|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-14|CLI-01328|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-02-28|CLI-01960|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-01-25|CLI-02248|online|4|Precios competitivos y buena experiencia general.
+2026-02-05|CLI-00741|tienda_sur|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-01|CLI-00547|online|3|El producto cumplió las expectativas básicas.
+2026-02-11|CLI-00801|online|4|Proceso de compra rápido y sin complicaciones.
+2026-03-15|CLI-00953|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-20|CLI-02726|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-02-25|CLI-01311|online|5|Muy buena variedad de productos disponibles.
+2026-03-26|CLI-00210|online|4|Muy buena variedad de productos disponibles.
+2026-01-20|CLI-00714|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-01-11|CLI-00987|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-01-03|CLI-02397|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-07|CLI-02190|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-24|CLI-00625|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-01-03|CLI-02391|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-02-05|CLI-00072|online|2|Tardaron demasiado en atenderme.
+2026-01-25|CLI-01423|online|1|El producto llegó con empaque dañado.
+2026-03-25|CLI-01612|tienda_sur|1|El personal no supo resolver mi consulta.
+2026-02-24|CLI-02610|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-01-14|CLI-02073|tienda_sur|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-25|CLI-02279|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-01-10|CLI-02251|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-01-31|CLI-01488|online|4|Los productos son de muy buena calidad.
+2026-02-10|CLI-00090|tienda_norte|2|El personal no supo resolver mi consulta.
+2026-01-29|CLI-01684|tienda_norte|4|Precios competitivos y buena experiencia general.
+2026-02-25|CLI-00080|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-03-22|CLI-02281|online|4|Precios competitivos y buena experiencia general.
+2026-01-07|CLI-02027|online|5|Excelente atención del personal, volveré pronto.
+2026-01-13|CLI-02362|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-19|CLI-01958|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-01-18|CLI-01262|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-31|CLI-01679|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-03-11|CLI-01881|online|5|Proceso de compra rápido y sin complicaciones.
+2026-03-28|CLI-02180|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-03-03|CLI-01150|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-03-06|CLI-01284|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-03-14|CLI-01327|tienda_norte|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-06|CLI-01889|online|5|Excelente atención del personal, volveré pronto.
+2026-02-12|CLI-01059|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-01-05|CLI-02463|online|2|Muy poca variedad en la categoría que busqué.
+2026-02-27|CLI-00261|online|4|Muy buena variedad de productos disponibles.
+2026-03-18|CLI-01528|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-01-18|CLI-00904|online|4|Precios competitivos y buena experiencia general.
+2026-01-15|CLI-02143|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-01-01|CLI-02601|online|4|Excelente atención del personal, volveré pronto.
+2026-03-13|CLI-02882|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-01-05|CLI-00746|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-26|CLI-02514|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-02-05|CLI-00089|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-09|CLI-01742|online|4|La tienda estaba muy ordenada y limpia.
+2026-03-28|CLI-00245|online|4|La tienda estaba muy ordenada y limpia.
+2026-03-12|CLI-01451|tienda_norte|2|Muy poca variedad en la categoría que busqué.
+2026-02-17|CLI-00348|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-03-10|CLI-00775|online|4|Excelente atención del personal, volveré pronto.
+2026-03-27|CLI-01355|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-03-22|CLI-01282|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-01-18|CLI-01417|tienda_norte|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-04|CLI-01045|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-01-01|CLI-00783|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-14|CLI-02544|online|2|Muy poca variedad en la categoría que busqué.
+2026-02-07|CLI-00924|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-02-01|CLI-00714|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-01-13|CLI-00994|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-01-25|CLI-02180|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-03-21|CLI-00827|tienda_sur|5|Precios competitivos y buena experiencia general.
+2026-03-25|CLI-02839|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-30|CLI-02823|online|1|El personal no supo resolver mi consulta.
+2026-01-18|CLI-01493|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-03-30|CLI-02070|online|2|El personal no supo resolver mi consulta.
+2026-01-27|CLI-01669|tienda_norte|4|Precios competitivos y buena experiencia general.
+2026-02-03|CLI-01365|tienda_sur|3|La atención fue adecuada pero no destacó.
+2026-01-07|CLI-01093|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-02-22|CLI-01844|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-09|CLI-01862|online|4|Excelente atención del personal, volveré pronto.
+2026-02-26|CLI-01562|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-03|CLI-00766|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-06|CLI-02261|online|5|Proceso de compra rápido y sin complicaciones.
+2026-03-11|CLI-02293|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-02-01|CLI-01866|online|4|Precios competitivos y buena experiencia general.
+2026-03-29|CLI-00286|tienda_norte|4|La tienda estaba muy ordenada y limpia.
+2026-01-17|CLI-01141|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-02-01|CLI-02649|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-01-21|CLI-00809|online|4|La tienda estaba muy ordenada y limpia.
+2026-01-29|CLI-02175|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-09|CLI-01147|tienda_norte|2|El personal no supo resolver mi consulta.
+2026-03-28|CLI-02378|online|4|Precios competitivos y buena experiencia general.
+2026-01-13|CLI-01730|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-29|CLI-02204|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-03-30|CLI-01833|tienda_sur|2|El producto llegó con empaque dañado.
+2026-01-04|CLI-00298|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-04|CLI-01976|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-01|CLI-00963|online|4|Excelente atención del personal, volveré pronto.
+2026-03-11|CLI-01788|tienda_sur|2|El producto llegó con empaque dañado.
+2026-02-01|CLI-02784|tienda_norte|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-09|CLI-02273|tienda_sur|3|Regular, algunos productos no estaban disponibles.
+2026-03-19|CLI-00483|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-04|CLI-01980|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-30|CLI-00723|tienda_norte|3|La experiencia fue correcta, nada especial.
+2026-01-30|CLI-02622|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-03-07|CLI-02855|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-11|CLI-02522|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-02-13|CLI-00371|tienda_sur|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-30|CLI-01614|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-22|CLI-01234|online|4|Muy buena variedad de productos disponibles.
+2026-03-30|CLI-00281|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-03-02|CLI-02854|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-29|CLI-01626|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-02-12|CLI-02689|tienda_sur|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-17|CLI-00104|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-02-11|CLI-02039|online|4|La tienda estaba muy ordenada y limpia.
+2026-03-18|CLI-02882|online|5|Proceso de compra rápido y sin complicaciones.
+2026-03-24|CLI-00817|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-05|CLI-02221|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-01-05|CLI-02313|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-03-28|CLI-02198|online|3|El producto cumplió las expectativas básicas.
+2026-01-08|CLI-00895|tienda_norte|2|Muy poca variedad en la categoría que busqué.
+2026-03-03|CLI-02956|tienda_norte|4|Los productos son de muy buena calidad.
+2026-03-26|CLI-02683|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-02-04|CLI-02965|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-03-17|CLI-01625|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-03-16|CLI-00599|online|4|La tienda estaba muy ordenada y limpia.
+2026-01-08|CLI-02638|online|3|La atención fue adecuada pero no destacó.
+2026-03-23|CLI-02742|tienda_sur|3|Regular, algunos productos no estaban disponibles.
+2026-02-25|CLI-02766|online|4|Proceso de compra rápido y sin complicaciones.
+2026-02-21|CLI-02103|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-01-25|CLI-01836|online|5|Excelente atención del personal, volveré pronto.
+2026-02-03|CLI-01869|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-20|CLI-02050|online|1|El personal no supo resolver mi consulta.
+2026-02-18|CLI-02349|online|5|Muy buena variedad de productos disponibles.
+2026-02-14|CLI-02046|tienda_norte|4|Excelente atención del personal, volveré pronto.
+2026-02-11|CLI-00774|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-02-04|CLI-00044|online|5|Precios competitivos y buena experiencia general.
+2026-01-06|CLI-00812|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-03-22|CLI-02143|tienda_sur|3|El producto cumplió las expectativas básicas.
+2026-01-12|CLI-02784|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-02-05|CLI-00948|tienda_norte|3|La experiencia fue correcta, nada especial.
+2026-02-24|CLI-01290|online|3|La atención fue adecuada pero no destacó.
+2026-03-11|CLI-01577|tienda_norte|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-30|CLI-01047|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-27|CLI-02528|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-09|CLI-02174|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-22|CLI-00641|tienda_sur|2|Tardaron demasiado en atenderme.
+2026-01-26|CLI-00714|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-03-26|CLI-01165|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-01-23|CLI-01011|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-19|CLI-02681|online|5|Los productos son de muy buena calidad.
+2026-01-20|CLI-01010|online|4|Muy buena variedad de productos disponibles.
+2026-02-16|CLI-00464|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-03-06|CLI-01835|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-01-28|CLI-02708|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-12|CLI-00171|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-03-08|CLI-02437|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-06|CLI-01556|online|5|Los productos son de muy buena calidad.
+2026-02-06|CLI-00022|tienda_sur|3|El producto cumplió las expectativas básicas.
+2026-02-10|CLI-02119|tienda_norte|5|Excelente atención del personal, volveré pronto.
+2026-03-24|CLI-01153|online|3|La atención fue adecuada pero no destacó.
+2026-02-08|CLI-02410|tienda_norte|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-26|CLI-02314|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-03-17|CLI-02533|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-01-18|CLI-02306|online|2|Muy poca variedad en la categoría que busqué.
+2026-01-20|CLI-00090|tienda_sur|5|Los productos son de muy buena calidad.
+2026-01-09|CLI-00524|online|2|Tardaron demasiado en atenderme.
+2026-02-01|CLI-01639|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-03-26|CLI-00423|tienda_norte|1|Los precios son más altos que en otros lugares.
+2026-03-03|CLI-00330|tienda_norte|3|La atención fue adecuada pero no destacó.
+2026-02-24|CLI-02404|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-01-23|CLI-02655|tienda_norte|5|Los productos son de muy buena calidad.
+2026-03-10|CLI-00592|online|2|Muy poca variedad en la categoría que busqué.
+2026-02-11|CLI-00142|online|3|La experiencia fue correcta, nada especial.
+2026-03-13|CLI-01331|online|4|La tienda estaba muy ordenada y limpia.
+2026-03-16|CLI-02255|online|3|El producto cumplió las expectativas básicas.
+2026-01-01|CLI-02406|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-12|CLI-01341|online|2|Tardaron demasiado en atenderme.
+2026-02-17|CLI-00013|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-23|CLI-00051|tienda_norte|2|Tardaron demasiado en atenderme.
+2026-02-17|CLI-00185|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-17|CLI-01630|online|5|Excelente atención del personal, volveré pronto.
+2026-03-15|CLI-00640|online|5|La tienda estaba muy ordenada y limpia.
+2026-02-13|CLI-00760|online|5|Precios competitivos y buena experiencia general.
+2026-01-13|CLI-02001|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-17|CLI-00075|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-02-09|CLI-01599|online|4|Precios competitivos y buena experiencia general.
+2026-01-21|CLI-02662|tienda_sur|3|El producto cumplió las expectativas básicas.
+2026-02-24|CLI-00680|online|4|Excelente atención del personal, volveré pronto.
+2026-02-06|CLI-02099|tienda_sur|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-02|CLI-00238|tienda_norte|3|El producto cumplió las expectativas básicas.
+2026-01-12|CLI-00567|online|5|Excelente atención del personal, volveré pronto.
+2026-01-17|CLI-01060|tienda_sur|2|El personal no supo resolver mi consulta.
+2026-03-19|CLI-01947|online|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-24|CLI-01035|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-10|CLI-02331|online|4|Precios competitivos y buena experiencia general.
+2026-03-14|CLI-02008|tienda_norte|3|Tiempo de espera aceptable pero podría mejorar.
+2026-01-11|CLI-01901|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-24|CLI-01572|tienda_norte|5|Los productos son de muy buena calidad.
+2026-01-21|CLI-00509|tienda_norte|5|Precios competitivos y buena experiencia general.
+2026-01-03|CLI-01889|tienda_sur|1|El personal no supo resolver mi consulta.
+2026-02-20|CLI-00950|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-02-22|CLI-01639|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-01-15|CLI-00584|online|2|Los precios son más altos que en otros lugares.
+2026-03-05|CLI-01857|tienda_sur|5|Los productos son de muy buena calidad.
+2026-03-30|CLI-00887|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-14|CLI-00006|tienda_sur|5|La tienda estaba muy ordenada y limpia.
+2026-02-26|CLI-00902|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-03-03|CLI-02722|tienda_sur|1|Tardaron demasiado en atenderme.
+2026-01-04|CLI-01647|online|5|La tienda estaba muy ordenada y limpia.
+2026-03-18|CLI-00255|online|4|Muy buena variedad de productos disponibles.
+2026-03-21|CLI-00972|tienda_norte|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-16|CLI-02488|tienda_sur|4|Excelente atención del personal, volveré pronto.
+2026-03-05|CLI-01830|tienda_sur|3|Regular, algunos productos no estaban disponibles.
+2026-02-16|CLI-00352|tienda_norte|4|Los productos son de muy buena calidad.
+2026-02-11|CLI-01711|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-13|CLI-00686|online|5|Excelente atención del personal, volveré pronto.
+2026-02-12|CLI-01102|online|5|Proceso de compra rápido y sin complicaciones.
+2026-02-28|CLI-02216|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-13|CLI-02484|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-01-05|CLI-01259|tienda_sur|3|Tiempo de espera aceptable pero podría mejorar.
+2026-01-14|CLI-01785|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-01-28|CLI-00644|online|5|Los productos son de muy buena calidad.
+2026-02-19|CLI-02534|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-03-15|CLI-01142|tienda_norte|2|Muy poca variedad en la categoría que busqué.
+2026-03-15|CLI-00575|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-29|CLI-02156|tienda_norte|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-31|CLI-00580|online|2|Tardaron demasiado en atenderme.
+2026-02-17|CLI-00385|tienda_sur|4|Muy buena variedad de productos disponibles.
+2026-01-08|CLI-00246|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-06|CLI-00800|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-03-09|CLI-01297|online|5|Muy buena variedad de productos disponibles.
+2026-02-07|CLI-02161|tienda_sur|3|La experiencia fue correcta, nada especial.
+2026-01-15|CLI-02309|online|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-01-23|CLI-02582|online|3|Tiempo de espera aceptable pero podría mejorar.
+2026-03-14|CLI-02155|tienda_sur|2|Tardaron demasiado en atenderme.
+2026-02-04|CLI-00849|online|4|Excelente atención del personal, volveré pronto.
+2026-03-29|CLI-00871|tienda_norte|2|Tardaron demasiado en atenderme.
+2026-01-28|CLI-01558|online|5|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-06|CLI-02221|online|3|La experiencia fue correcta, nada especial.
+2026-03-10|CLI-02741|tienda_norte|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-03-30|CLI-02451|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-01-12|CLI-01373|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-01-13|CLI-00563|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-02-19|CLI-01417|online|3|El producto cumplió las expectativas básicas.
+2026-03-17|CLI-01751|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-01-05|CLI-02745|online|5|Los productos son de muy buena calidad.
+2026-02-06|CLI-00727|online|3|La experiencia fue correcta, nada especial.
+2026-03-18|CLI-01150|online|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-02-02|CLI-02305|online|4|Precios competitivos y buena experiencia general.
+2026-01-17|CLI-01129|tienda_sur|5|Excelente atención del personal, volveré pronto.
+2026-01-27|CLI-00894|tienda_norte|2|Los precios son más altos que en otros lugares.
+2026-01-02|CLI-00364|online|5|La tienda estaba muy ordenada y limpia.
+2026-01-13|CLI-02274|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-30|CLI-01698|online|4|Muy buena variedad de productos disponibles.
+2026-03-21|CLI-01500|online|4|Excelente atención del personal, volveré pronto.
+2026-02-13|CLI-01601|tienda_norte|4|Los productos son de muy buena calidad.
+2026-03-10|CLI-00018|online|2|El personal no supo resolver mi consulta.
+2026-01-06|CLI-01163|tienda_sur|3|Regular, algunos productos no estaban disponibles.
+2026-02-13|CLI-01847|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-02-01|CLI-01195|tienda_sur|4|Proceso de compra rápido y sin complicaciones.
+2026-03-20|CLI-02139|online|1|Tardaron demasiado en atenderme.
+2026-01-19|CLI-02508|online|5|Precios competitivos y buena experiencia general.
+2026-03-10|CLI-01097|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-03-29|CLI-01455|tienda_norte|5|Los productos son de muy buena calidad.
+2026-03-08|CLI-00871|tienda_norte|4|Los productos son de muy buena calidad.
+2026-01-11|CLI-02364|tienda_norte|5|Muy buena variedad de productos disponibles.
+2026-03-26|CLI-00479|online|3|La experiencia fue correcta, nada especial.
+2026-02-06|CLI-00549|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-02-05|CLI-00668|tienda_sur|5|Muy buena variedad de productos disponibles.
+2026-01-26|CLI-02568|online|2|Tardaron demasiado en atenderme.
+2026-03-09|CLI-00676|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-04|CLI-02423|online|5|Proceso de compra rápido y sin complicaciones.
+2026-01-01|CLI-00477|tienda_sur|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-02-25|CLI-02375|tienda_norte|2|Tardaron demasiado en atenderme.
+2026-03-28|CLI-02050|tienda_norte|1|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-15|CLI-00910|online|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-02|CLI-02064|tienda_sur|1|El personal no supo resolver mi consulta.
+2026-03-13|CLI-01385|tienda_norte|3|Regular, algunos productos no estaban disponibles.
+2026-03-15|CLI-01966|online|2|El personal no supo resolver mi consulta.
+2026-03-14|CLI-00517|tienda_sur|1|El personal no supo resolver mi consulta.
+2026-01-01|CLI-02358|online|5|Los productos son de muy buena calidad.
+2026-03-28|CLI-02735|tienda_sur|5|Los productos son de muy buena calidad.
+2026-01-11|CLI-01912|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-01-15|CLI-01255|online|3|La atención fue adecuada pero no destacó.
+2026-01-15|CLI-00466|tienda_norte|1|Tardaron demasiado en atenderme.
+2026-02-12|CLI-01269|tienda_norte|5|Proceso de compra rápido y sin complicaciones.
+2026-03-14|CLI-02973|tienda_sur|2|Difícil encontrar lo que buscaba, poca señalización.
+2026-01-01|CLI-00844|tienda_sur|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-03-23|CLI-02988|online|5|Los productos son de muy buena calidad.
+2026-02-18|CLI-01473|tienda_norte|4|Proceso de compra rápido y sin complicaciones.
+2026-02-17|CLI-00390|tienda_sur|4|La tienda estaba muy ordenada y limpia.
+2026-02-13|CLI-01525|tienda_norte|4|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-20|CLI-02687|tienda_norte|4|El personal fue muy amable y me ayudó a encontrar lo que buscaba.
+2026-02-17|CLI-02972|tienda_sur|4|Precios competitivos y buena experiencia general.
+2026-01-15|CLI-02464|tienda_sur|1|Los precios son más altos que en otros lugares.
+2026-03-29|CLI-02441|tienda_sur|5|Encontré todo lo que necesitaba, muy completo el catálogo.
+2026-02-07|CLI-02932|online|2|El producto llegó con empaque dañado.
+2026-03-19|CLI-02924|tienda_norte|4|Los productos son de muy buena calidad.
+2026-01-18|CLI-00100|tienda_norte|4|Muy buena variedad de productos disponibles.
+2026-01-02|CLI-01845|tienda_norte|5|La tienda estaba muy ordenada y limpia.
+2026-01-22|CLI-00681|tienda_sur|4|Excelente atención del personal, volveré pronto.

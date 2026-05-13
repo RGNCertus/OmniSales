@@ -1,0 +1,5 @@
+event_id,venta_id,event_type,canal,categoria,producto_id,monto_venta,stock_actual,alerta,event_timestamp,batch_id
+EVT-0000513,VS-0004466,venta_devuelta,tienda_sur,electronica,PRD-0132,1974.84,20,ALERTA_DEVOLUCION_ALTO_VALOR,2026-05-13 04:25:46,2
+EVT-0000514,VN-0001165,venta_devuelta,tienda_norte,electronica,PRD-0132,1974.84,16,ALERTA_DEVOLUCION_ALTO_VALOR,2026-05-13 04:25:46,2
+EVT-0000492,VN-0000973,stock_bajo,tienda_norte,electronica,PRD-0132,1316.56,14,ALERTA_STOCK_BAJO,2026-05-13 04:25:44,2
+EVT-0000477,VN-0004086,venta_devuelta,tienda_norte,electronica,PRD-0199,1125.27,20,ALERTA_DEVOLUCION_ALTO_VALOR,2026-05-13 04:25:42,2
