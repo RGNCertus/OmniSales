@@ -1,0 +1,3 @@
+event_id,venta_id,event_type,canal,categoria,producto_id,monto_venta,stock_actual,alerta,event_timestamp,batch_id
+EVT-0000323,VS-0000299,stock_bajo,tienda_sur,electronica,PRD-0017,2959.96,12,ALERTA_STOCK_BAJO,2026-05-14 01:19:14,7
+EVT-0000311,VN-0001226,venta_devuelta,tienda_norte,electronica,PRD-0177,2132.36,65,ALERTA_DEVOLUCION_ALTO_VALOR,2026-05-14 01:19:13,7
